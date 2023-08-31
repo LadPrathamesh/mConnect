@@ -1,70 +1,75 @@
 package testCases;
 
+import java.time.Duration;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
-public class TestCases extends testBase.TestBase{
+import testBase.TestBase;
+
+public class TestCases extends TestBase{
 
 
 //========================================================================
-	@Test 		(groups = {"Smoke","Sanity","Login with incorrect passoword"})// 07 Aug 2023 | Tester 1    // Sample test case
-	public void loginTest() throws InterruptedException {
-//		System.out.println("testclkjlkj");
-		driver.get("https://practicetestautomation.com/practice-test-login/");
-		loginAs.tester("student", "Password123");
-//		tester.login("chirag1kirad@gmail.com", "Chirag@123123");
-//		driver.get("https://www.google.com");
-//		login.TesterLogin("chirag1kirad@gmail.com", "Chirag@123123");
-//		login.enterUsername("chirag1kirad@gmail.com");
-//		login.enterPassword("Chirag@123123");
-//		login.clickOnLogin();
-		Thread.sleep(2000);
-		takeScreenshot.save("Passed_passwordLogin");
+	@Test 		(groups = {"Smoke","Sanity"})
+	public void dealerLocator() throws InterruptedException {
 		
+		
+		login.enterUsername("cs.anand@pidilite.com");
+		login.enterPassword("Pidilite@123");
+		login.clickOnLogin();
+		Thread.sleep(6000);
+		
+		driver.get("https://mconnect.pidilite.com/dealer-locator");
+		Thread.sleep(500);
+		driver.get("https://mconnect.pidilite.com/dealer-locator");
+
+		elementDropdown.select(1, "First Dealer Locator");
+		elementDropdown.select(2, "Second Dealer Locator");
+
+		
+		
+//		WebElement logout = driver.findElement(By.xpath("//li[text()='Logout']"));
+//		logout.click();
+		
+		Thread.sleep(1);
 		}
-	
-//=========================================================================
-//------------Write Test Cases below this line only----------------------
-	
-	
 
-// Upload file	
+//========================================================================
+		@Test 		(groups = {"Smoke","Sanity"})// 07 Aug 2023 | Tester 1    // Sample test case
+		public void MTP() throws InterruptedException {
+			
+			
+			login.enterUsername("cs.anand@pidilite.com");
+			login.enterPassword("Pidilite@123");
+			login.clickOnLogin();
+			Thread.sleep(6000);
+			
+			driver.get("https://mconnect.pidilite.com/monthly-tour-plan");
+//			Thread.sleep(1000);
+			driver.get("https://mconnect.pidilite.com/monthly-tour-plan");
 
-	@Test (groups = {"Smoke"})
-
-
-	public void fileUpload() throws InterruptedException {
-		driver.get("https://www.google.com");
-		Thread.sleep(5000);
-//		login.enterUsername("chirag1kirad@gmail.com");
-//		login.enterPassword("Chirag@123123");
-//		login.clickOnLogin();
-//		driver.navigate().refresh();
-//		uielement.clickonSkipTour();
-//		uielement.openMediaTab();
-//		uielement.clickOnUpload();
-//		uielement.uploadFileFromTestData("D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\src\\test\\java\\testData\\testJPG Image.jpg");
-		takeScreenshot.save("Passed fileUpload");
-	}
-//============================================================================	
-// Test Flipkart
-	@Test (groups = "Regression")
-	public void testFilpkart() {
-		driver.get("https://www.flipkart.com");
-		
-//		uielement.clickOnflipclose();
-//		uielement.clickOnbecomeSeller();
-		takeScreenshot.save("Test screenshot");
-		
-	}
-		
-		
-		
-		
-		
-
+			elementDropdown.select(1, "FirstMTP");
+			elementDropdown.select(2, "SecondMTP");
+			elementDropdown.select(3, "ThirdMTP");
+			
+			
+			
+			
+//			WebElement logout = driver.findElement(By.xpath("//li[text()='Logout']"));
+//			logout.click();
+			
+			Thread.sleep(1);
+			}
 	
 	
 	
 	
-
+	
+	
 }

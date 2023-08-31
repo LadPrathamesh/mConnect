@@ -46,61 +46,24 @@ public void clickonSkipTour()
 	skipTourBtn.click();
 	}
 //=====================================================================
-//Open Media
-@FindBy(xpath="//a[@href='https://qa.archoral.com/media']") 
-private WebElement OpenMedia;  		
+//Dealer Locator select cluster
+@FindBy(xpath="(//input[@id='grouped-demo'])[1]") 
+private WebElement selectCluster;  		
 	  
-public void openMediaTab()		
+public void clickOnSelectCluster()		
 	{ 
-	OpenMedia.click();
+	selectCluster.click();
 	}
+
 //=====================================================================
-//Click on Upload
-@FindBy(xpath="(//a[@href='https://qa.archoral.com/upload'])[1]") 
-private WebElement UploadBtn;  		
+//Dealer Locator select dealer
+@FindBy(xpath="(//input[@id='grouped-demo'])[2]") 
+private WebElement selectDealer;  		
 	  
-public void clickOnUpload()		
+public void clickOnselectDealer()		
 	{ 
-	UploadBtn.click();
+	selectDealer.click();
 	}
-//=====================================================================
-//Upload file From computer
-@FindBy(xpath="//input[@id='input-file-now']") 
-private WebElement uploadBtn2;  		
-	  
-public void uploadFileFromTestData(String filePath)		
-	{ 
-	uploadBtn2.sendKeys(filePath);
-	
-
-//	upload.UploadFiles(filePath);
-	}
-//=====================================================================
-// flipkart close first box
-
-
-@FindBy(xpath="//button[text()='✕']") 
-private WebElement flipkartCloseBtn;  		
-	  
-public void clickOnflipclose()		
-	{ 
-	flipkartCloseBtn.click();
-	}
-//=====================================================================
-// become a seller click
-
-
-@FindBy(xpath="//span[text()='Become a Seller']") 
-private WebElement becomeSellerTab;  		
-	  
-public void clickOnbecomeSeller()		
-	{ 
-	becomeSellerTab.click();
-	}
-
-
-
-
 
 
 

@@ -6,18 +6,12 @@
     <listener class-name="utility.ExtentReporterNG"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <groups>
-      <run>
-        <include name="Smoke"/>
-        <include name="Regression"/>
-      </run>
-    </groups>
     <classes>
       <class name="testCases.TestCases">
         <methods>
-          <include name="loginTest"/>
           <include name="setUp"/>
           <include name="start"/>
+          <include name="DataFlow"/>
           <include name="TakeDown"/>
           <include name="stop"/>
         </methods>
