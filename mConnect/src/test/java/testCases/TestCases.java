@@ -29,8 +29,8 @@ public class TestCases extends TestBase{
 		Thread.sleep(500);
 		driver.get("https://mconnect.pidilite.com/dealer-locator");
 
-		elementDropdown.select(1, "First Dealer Locator");
-		elementDropdown.select(2, "Second Dealer Locator");
+		elementDropdown.select(1, "First Dealer Locator"+"__"+username);
+		elementDropdown.select(2, "Second Dealer Locator"+"__"+username);
 
 		
 		
