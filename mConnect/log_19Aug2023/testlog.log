@@ -1,0 +1,840 @@
+2023-08-16 20:12:15,512 - Frame1 -INFO - Logger Started
+2023-08-16 20:12:19,011 - Frame1 -INFO - Chrome launched
+2023-08-16 20:12:20,513 - Frame1 -INFO - url Loaded
+2023-08-16 20:12:20,743 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:12:20,808 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:12:26,763 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:12:26,766 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:12:27,076 - Frame1 -INFO - Browser Closed
+2023-08-16 20:12:29,219 - Frame1 -INFO - Chrome launched
+2023-08-16 20:12:30,815 - Frame1 -INFO - url Loaded
+2023-08-16 20:12:31,034 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:12:31,040 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:12:34,188 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:12:34,190 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:12:34,558 - Frame1 -INFO - Browser Closed
+2023-08-16 20:12:34,562 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:16:06,890 - Frame1 -INFO - Logger Started
+2023-08-16 20:16:09,801 - Frame1 -INFO - Chrome launched
+2023-08-16 20:16:11,236 - Frame1 -INFO - url Loaded
+2023-08-16 20:16:11,417 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:16:11,450 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:16:17,929 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:16:17,935 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:16:18,289 - Frame1 -INFO - Browser Closed
+2023-08-16 20:16:20,285 - Frame1 -INFO - Chrome launched
+2023-08-16 20:16:21,749 - Frame1 -INFO - url Loaded
+2023-08-16 20:16:21,930 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:16:21,935 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:16:24,999 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:16:25,001 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:16:25,337 - Frame1 -INFO - Browser Closed
+2023-08-16 20:16:25,340 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:17:01,585 - Frame1 -INFO - Logger Started
+2023-08-16 20:17:04,422 - Frame1 -INFO - Chrome launched
+2023-08-16 20:17:05,957 - Frame1 -INFO - url Loaded
+2023-08-16 20:17:06,130 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:17:06,157 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:17:12,321 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:17:12,337 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:17:12,725 - Frame1 -INFO - Browser Closed
+2023-08-16 20:17:14,637 - Frame1 -INFO - Chrome launched
+2023-08-16 20:17:16,103 - Frame1 -INFO - url Loaded
+2023-08-16 20:17:16,291 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:17:16,291 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:17:18,821 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:17:18,823 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:17:19,134 - Frame1 -INFO - Browser Closed
+2023-08-16 20:17:19,137 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:17:58,686 - Frame1 -INFO - Logger Started
+2023-08-16 20:18:02,303 - Frame1 -INFO - Chrome launched
+2023-08-16 20:18:03,677 - Frame1 -INFO - url Loaded
+2023-08-16 20:18:03,875 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:18:03,911 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:18:10,024 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:18:10,030 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:18:10,369 - Frame1 -INFO - Browser Closed
+2023-08-16 20:18:12,549 - Frame1 -INFO - Chrome launched
+2023-08-16 20:18:14,789 - Frame1 -INFO - url Loaded
+2023-08-16 20:18:14,999 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:18:15,002 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:18:17,137 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:18:17,143 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:18:17,448 - Frame1 -INFO - Browser Closed
+2023-08-16 20:18:17,450 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:18:52,370 - Frame1 -INFO - Logger Started
+2023-08-16 20:18:55,361 - Frame1 -INFO - Chrome launched
+2023-08-16 20:18:56,797 - Frame1 -INFO - url Loaded
+2023-08-16 20:18:56,984 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:18:57,020 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:19:03,132 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:19:03,148 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:19:03,518 - Frame1 -INFO - Browser Closed
+2023-08-16 20:19:05,477 - Frame1 -INFO - Chrome launched
+2023-08-16 20:19:06,920 - Frame1 -INFO - url Loaded
+2023-08-16 20:19:07,115 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:19:07,118 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:19:10,120 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:19:10,122 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:19:10,440 - Frame1 -INFO - Browser Closed
+2023-08-16 20:19:10,443 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:21:18,845 - Frame1 -INFO - Logger Started
+2023-08-16 20:21:21,744 - Frame1 -INFO - Chrome launched
+2023-08-16 20:21:23,962 - Frame1 -INFO - url Loaded
+2023-08-16 20:21:24,225 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:21:24,262 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:21:30,484 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:21:30,486 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:21:30,696 - Frame1 -INFO - Browser Closed
+2023-08-16 20:21:33,643 - Frame1 -INFO - Chrome launched
+2023-08-16 20:21:36,232 - Frame1 -INFO - url Loaded
+2023-08-16 20:21:37,471 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:21:37,473 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:21:42,137 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:21:42,140 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:21:42,344 - Frame1 -INFO - Browser Closed
+2023-08-16 20:21:42,346 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:22:29,369 - Frame1 -INFO - Logger Started
+2023-08-16 20:22:32,392 - Frame1 -INFO - Chrome launched
+2023-08-16 20:22:34,215 - Frame1 -INFO - url Loaded
+2023-08-16 20:22:34,480 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:22:34,514 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:22:40,610 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:22:40,613 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:22:40,823 - Frame1 -INFO - Browser Closed
+2023-08-16 20:22:42,469 - Frame1 -INFO - Chrome launched
+2023-08-16 20:22:43,784 - Frame1 -INFO - url Loaded
+2023-08-16 20:22:43,990 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:22:43,995 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:22:46,238 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:22:46,240 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:22:46,449 - Frame1 -INFO - Browser Closed
+2023-08-16 20:22:46,451 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:23:12,751 - Frame1 -INFO - Logger Started
+2023-08-16 20:23:15,742 - Frame1 -INFO - Chrome launched
+2023-08-16 20:23:17,288 - Frame1 -INFO - url Loaded
+2023-08-16 20:23:17,529 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:23:17,561 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:23:23,623 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:23:23,631 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:23:23,872 - Frame1 -INFO - Browser Closed
+2023-08-16 20:23:25,534 - Frame1 -INFO - Chrome launched
+2023-08-16 20:23:26,934 - Frame1 -INFO - url Loaded
+2023-08-16 20:23:27,154 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:23:27,157 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:23:29,960 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:23:29,962 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:23:30,186 - Frame1 -INFO - Browser Closed
+2023-08-16 20:23:30,188 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:24:02,341 - Frame1 -INFO - Logger Started
+2023-08-16 20:24:05,148 - Frame1 -INFO - Chrome launched
+2023-08-16 20:24:06,629 - Frame1 -INFO - url Loaded
+2023-08-16 20:24:06,846 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:24:06,878 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:24:12,752 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:24:12,754 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:24:13,046 - Frame1 -INFO - Browser Closed
+2023-08-16 20:24:14,775 - Frame1 -INFO - Chrome launched
+2023-08-16 20:24:16,079 - Frame1 -INFO - url Loaded
+2023-08-16 20:24:16,305 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:24:16,307 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:24:18,733 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:24:18,735 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:24:18,982 - Frame1 -INFO - Browser Closed
+2023-08-16 20:24:18,984 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:25:03,119 - Frame1 -INFO - Logger Started
+2023-08-16 20:25:05,891 - Frame1 -INFO - Chrome launched
+2023-08-16 20:25:07,419 - Frame1 -INFO - url Loaded
+2023-08-16 20:25:07,654 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:25:07,692 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:25:13,659 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:25:13,662 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:25:13,964 - Frame1 -INFO - Browser Closed
+2023-08-16 20:25:15,650 - Frame1 -INFO - Chrome launched
+2023-08-16 20:25:17,393 - Frame1 -INFO - url Loaded
+2023-08-16 20:25:17,614 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:25:17,617 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:25:19,112 - Frame1 -ERROR - TestCase Execution Failed_(testFilpkart)
+2023-08-16 20:25:19,122 - Frame1 -ERROR - TestCase Execution Failed_(testFilpkart)
+2023-08-16 20:25:19,150 - Frame1 -INFO - Framework Executed Successfully
+<<<<<<< Updated upstream
+=======
+2023-08-16 20:48:00,973 - Frame1 -INFO - Logger Started
+2023-08-16 20:48:03,833 - Frame1 -INFO - Chrome launched
+2023-08-16 20:48:05,236 - Frame1 -INFO - url Loaded
+2023-08-16 20:48:05,417 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:48:05,446 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:48:11,097 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:48:11,102 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:48:11,360 - Frame1 -INFO - Browser Closed
+2023-08-16 20:48:13,036 - Frame1 -INFO - Chrome launched
+2023-08-16 20:48:14,449 - Frame1 -INFO - url Loaded
+2023-08-16 20:48:14,643 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:48:14,643 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:48:17,835 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:48:17,836 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:48:18,045 - Frame1 -INFO - Browser Closed
+2023-08-16 20:48:18,049 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:59:33,827 - Frame1 -INFO - Logger Started
+2023-08-16 20:59:36,630 - Frame1 -INFO - Chrome launched
+2023-08-16 20:59:40,003 - Frame1 -INFO - url Loaded
+2023-08-16 20:59:40,165 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:59:40,186 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:59:46,139 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:59:46,143 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:59:46,350 - Frame1 -INFO - Browser Closed
+2023-08-16 20:59:48,164 - Frame1 -INFO - Chrome launched
+2023-08-16 20:59:49,345 - Frame1 -INFO - url Loaded
+2023-08-16 20:59:49,508 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:59:49,511 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:59:51,449 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:59:51,451 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:59:51,646 - Frame1 -INFO - Browser Closed
+2023-08-16 20:59:51,649 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 08:19:11,098 - Frame1 -INFO - Logger Started
+2023-08-17 08:19:11,771 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 08:19:11,775 - Frame1 -INFO - Test Case Skipped(fileUpload)
+2023-08-17 08:19:12,055 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 08:19:12,057 - Frame1 -INFO - Test Case Skipped(testFilpkart)
+2023-08-17 08:19:12,060 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 08:20:04,985 - Frame1 -INFO - Logger Started
+2023-08-17 08:20:09,230 - Frame1 -INFO - Chrome launched
+2023-08-17 08:20:10,868 - Frame1 -INFO - url Loaded
+2023-08-17 08:20:11,097 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 08:20:11,271 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 08:20:18,125 - Frame1 -INFO - Screenshot Taken
+2023-08-17 08:20:18,125 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 08:20:18,583 - Frame1 -INFO - Browser Closed
+2023-08-17 08:20:19,953 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 08:20:19,963 - Frame1 -INFO - Test Case Skipped(testFilpkart)
+2023-08-17 08:20:19,963 - Frame1 -INFO - Browser Closed
+2023-08-17 08:20:19,968 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 08:21:05,174 - Frame1 -INFO - Logger Started
+2023-08-17 08:21:05,812 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 08:21:05,816 - Frame1 -INFO - TestCase Skipped(fileUpload)
+2023-08-17 08:21:06,215 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 08:21:06,218 - Frame1 -INFO - TestCase Skipped(testFilpkart)
+2023-08-17 08:21:06,223 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 08:21:26,870 - Frame1 -INFO - Logger Started
+2023-08-17 08:21:30,493 - Frame1 -INFO - Chrome launched
+2023-08-17 08:21:31,859 - Frame1 -INFO - url Loaded
+2023-08-17 08:21:32,058 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 08:21:32,143 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 08:21:38,371 - Frame1 -INFO - Screenshot Taken
+2023-08-17 08:21:38,379 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 08:21:38,827 - Frame1 -INFO - Browser Closed
+2023-08-17 08:21:40,945 - Frame1 -INFO - Chrome launched
+2023-08-17 08:21:42,707 - Frame1 -INFO - url Loaded
+2023-08-17 08:21:42,940 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 08:21:42,940 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 08:21:45,225 - Frame1 -INFO - Screenshot Taken
+2023-08-17 08:21:45,229 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-17 08:21:45,532 - Frame1 -INFO - Browser Closed
+2023-08-17 08:21:45,532 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 08:23:53,425 - Frame1 -INFO - Logger Started
+2023-08-17 08:23:56,631 - Frame1 -INFO - Chrome launched
+2023-08-17 08:23:58,251 - Frame1 -INFO - url Loaded
+2023-08-17 08:23:58,494 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 08:23:58,557 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 08:24:04,797 - Frame1 -INFO - Screenshot Taken
+2023-08-17 08:24:04,805 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 08:24:05,203 - Frame1 -INFO - Browser Closed
+2023-08-17 08:24:07,275 - Frame1 -INFO - Chrome launched
+2023-08-17 08:24:09,052 - Frame1 -INFO - url Loaded
+2023-08-17 08:24:09,268 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 08:24:09,273 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 08:24:11,750 - Frame1 -INFO - Screenshot Taken
+2023-08-17 08:24:11,752 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-17 08:24:12,063 - Frame1 -INFO - Browser Closed
+2023-08-17 08:24:12,065 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 21:30:01,705 - Frame1 -INFO - Logger Started
+2023-08-17 21:30:05,107 - Frame1 -INFO - Chrome launched
+2023-08-17 21:30:07,542 - Frame1 -INFO - url Loaded
+2023-08-17 21:30:07,723 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 21:30:07,754 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 21:30:14,246 - Frame1 -INFO - Screenshot Taken
+2023-08-17 21:30:14,249 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 21:30:14,467 - Frame1 -INFO - Browser Closed
+2023-08-17 21:30:16,003 - Frame1 -INFO - Chrome launched
+2023-08-17 21:30:24,084 - Frame1 -INFO - url Loaded
+2023-08-17 21:30:24,246 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 21:30:24,248 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 21:30:27,496 - Frame1 -INFO - Screenshot Taken
+2023-08-17 21:30:27,497 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-17 21:30:27,731 - Frame1 -INFO - Browser Closed
+2023-08-17 21:30:27,734 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 22:40:33,552 - Frame1 -INFO - Logger Started
+2023-08-17 22:40:37,207 - Frame1 -INFO - Chrome launched
+2023-08-17 22:40:39,608 - Frame1 -INFO - url Loaded
+2023-08-17 22:40:39,851 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:40:47,532 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:40:47,848 - Frame1 -INFO - Browser Closed
+2023-08-17 22:40:49,816 - Frame1 -INFO - Chrome launched
+2023-08-17 22:40:53,467 - Frame1 -INFO - url Loaded
+2023-08-17 22:40:53,715 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:40:57,425 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:40:57,632 - Frame1 -INFO - Browser Closed
+2023-08-17 22:40:59,225 - Frame1 -INFO - Chrome launched
+2023-08-17 22:41:01,480 - Frame1 -INFO - url Loaded
+2023-08-17 22:41:01,704 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:41:03,823 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:41:04,063 - Frame1 -INFO - Browser Closed
+2023-08-17 22:41:04,065 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 22:43:29,865 - Frame1 -INFO - Logger Started
+2023-08-17 22:43:33,096 - Frame1 -INFO - Chrome launched
+2023-08-17 22:43:35,444 - Frame1 -INFO - url Loaded
+2023-08-17 22:43:35,618 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:43:42,278 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:43:42,543 - Frame1 -INFO - Browser Closed
+2023-08-17 22:43:44,358 - Frame1 -INFO - Chrome launched
+2023-08-17 22:43:46,670 - Frame1 -INFO - url Loaded
+2023-08-17 22:43:46,974 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:43:50,361 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:43:50,582 - Frame1 -INFO - Browser Closed
+2023-08-17 22:43:53,405 - Frame1 -INFO - Chrome launched
+2023-08-17 22:43:55,797 - Frame1 -INFO - url Loaded
+2023-08-17 22:43:55,999 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:43:56,875 - Frame1 -INFO - Browser Closed
+2023-08-17 22:43:56,876 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 22:45:38,032 - Frame1 -INFO - Logger Started
+2023-08-17 22:45:41,888 - Frame1 -INFO - Chrome launched
+2023-08-17 22:45:44,404 - Frame1 -INFO - url Loaded
+2023-08-17 22:45:44,651 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:45:51,276 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:45:51,559 - Frame1 -INFO - Browser Closed
+2023-08-17 22:45:51,559 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 22:46:37,030 - Frame1 -INFO - Logger Started
+2023-08-17 22:46:41,709 - Frame1 -INFO - Chrome launched
+2023-08-17 22:46:44,203 - Frame1 -INFO - url Loaded
+2023-08-17 22:46:44,410 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:46:44,459 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 22:46:51,397 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:46:51,397 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 22:46:51,668 - Frame1 -INFO - Browser Closed
+2023-08-17 22:46:53,539 - Frame1 -INFO - Chrome launched
+2023-08-17 22:46:55,842 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 22:46:55,842 - Frame1 -INFO - TestCase Skipped(testFilpkart)
+2023-08-17 22:46:55,858 - Frame1 -INFO - Browser Closed
+2023-08-17 22:46:55,858 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 22:48:13,213 - Frame1 -INFO - Logger Started
+2023-08-17 22:48:17,097 - Frame1 -INFO - Chrome launched
+2023-08-17 22:48:19,642 - Frame1 -INFO - url Loaded
+2023-08-17 22:48:19,870 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:48:26,521 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:48:26,770 - Frame1 -INFO - Browser Closed
+2023-08-17 22:48:26,774 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 22:57:00,871 - Frame1 -INFO - Logger Started
+2023-08-17 22:57:04,215 - Frame1 -INFO - Chrome launched
+2023-08-17 22:57:06,511 - Frame1 -INFO - url Loaded
+2023-08-17 22:57:06,682 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 22:57:15,354 - Frame1 -INFO - Screenshot Taken
+2023-08-17 22:57:15,700 - Frame1 -INFO - Browser Closed
+2023-08-17 22:57:15,700 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:02:44,472 - Frame1 -INFO - Logger Started
+2023-08-17 23:02:48,509 - Frame1 -INFO - Chrome launched
+2023-08-17 23:02:50,823 - Frame1 -INFO - url Loaded
+2023-08-17 23:02:50,995 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:02:51,022 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:02:57,497 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:02:57,499 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:02:57,710 - Frame1 -INFO - Browser Closed
+2023-08-17 23:02:59,353 - Frame1 -INFO - Chrome launched
+2023-08-17 23:03:01,644 - Frame1 -INFO - url Loaded
+2023-08-17 23:03:01,801 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:03:01,802 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-17 23:03:03,820 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:03:03,822 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-17 23:03:04,043 - Frame1 -INFO - Browser Closed
+2023-08-17 23:03:04,047 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:17:50,898 - Frame1 -INFO - Logger Started
+2023-08-17 23:17:54,075 - Frame1 -INFO - Chrome launched
+2023-08-17 23:17:56,417 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:17:56,418 - Frame1 -INFO - TestCase Skipped(fileUpload)
+2023-08-17 23:17:56,430 - Frame1 -INFO - Browser Closed
+2023-08-17 23:17:56,433 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:18:31,120 - Frame1 -INFO - Logger Started
+2023-08-17 23:18:33,743 - Frame1 -INFO - Chrome launched
+2023-08-17 23:18:36,179 - Frame1 -INFO - url Loaded
+2023-08-17 23:18:36,339 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:18:36,359 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:18:42,720 - Frame1 -ERROR - TestCase Execution Failed_(fileUpload)
+2023-08-17 23:18:42,723 - Frame1 -ERROR - TestCase Execution Failed_(fileUpload)
+2023-08-17 23:18:42,727 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:19:24,374 - Frame1 -INFO - Logger Started
+2023-08-17 23:19:27,202 - Frame1 -INFO - Chrome launched
+2023-08-17 23:19:32,512 - Frame1 -INFO - url Loaded
+2023-08-17 23:19:32,693 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:19:32,714 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:19:39,236 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:19:39,238 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:19:39,425 - Frame1 -INFO - Browser Closed
+2023-08-17 23:19:39,427 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:20:32,188 - Frame1 -INFO - Logger Started
+2023-08-17 23:20:34,787 - Frame1 -INFO - Chrome launched
+2023-08-17 23:20:37,117 - Frame1 -INFO - url Loaded
+2023-08-17 23:20:37,286 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:20:37,306 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:20:43,578 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:20:43,580 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:20:43,785 - Frame1 -INFO - Browser Closed
+2023-08-17 23:20:45,352 - Frame1 -INFO - Chrome launched
+2023-08-17 23:20:47,596 - Frame1 -INFO - url Loaded
+2023-08-17 23:20:47,762 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:20:47,764 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-17 23:20:51,206 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:20:51,206 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-17 23:20:51,439 - Frame1 -INFO - Browser Closed
+2023-08-17 23:20:51,441 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:22:47,998 - Frame1 -INFO - Logger Started
+2023-08-17 23:22:50,625 - Frame1 -INFO - Chrome launched
+2023-08-17 23:22:53,033 - Frame1 -INFO - url Loaded
+2023-08-17 23:22:53,205 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:22:59,647 - Frame1 -INFO - Browser Closed
+2023-08-17 23:23:01,308 - Frame1 -INFO - Chrome launched
+2023-08-17 23:23:03,663 - Frame1 -INFO - url Loaded
+2023-08-17 23:23:03,819 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:23:07,541 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:23:07,787 - Frame1 -INFO - Browser Closed
+2023-08-17 23:23:07,791 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:24:23,763 - Frame1 -INFO - Logger Started
+2023-08-17 23:24:27,758 - Frame1 -INFO - Chrome launched
+2023-08-17 23:24:29,978 - Frame1 -INFO - url Loaded
+2023-08-17 23:24:30,137 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:24:36,549 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:24:36,787 - Frame1 -INFO - Browser Closed
+2023-08-17 23:24:38,404 - Frame1 -INFO - Chrome launched
+2023-08-17 23:24:44,016 - Frame1 -INFO - url Loaded
+2023-08-17 23:24:44,195 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:24:47,656 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:24:47,902 - Frame1 -INFO - Browser Closed
+2023-08-17 23:24:47,906 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:25:12,281 - Frame1 -INFO - Logger Started
+2023-08-17 23:25:14,867 - Frame1 -INFO - Chrome launched
+2023-08-17 23:25:17,141 - Frame1 -INFO - url Loaded
+2023-08-17 23:25:17,310 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:25:23,758 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:25:23,961 - Frame1 -INFO - Browser Closed
+2023-08-17 23:25:25,535 - Frame1 -INFO - Chrome launched
+2023-08-17 23:25:27,810 - Frame1 -INFO - url Loaded
+2023-08-17 23:25:27,981 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:25:31,477 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:25:31,665 - Frame1 -INFO - Browser Closed
+2023-08-17 23:25:31,667 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:28:37,227 - Frame1 -INFO - Logger Started
+2023-08-17 23:28:41,291 - Frame1 -INFO - Chrome launched
+2023-08-17 23:28:43,478 - Frame1 -INFO - url Loaded
+2023-08-17 23:28:43,645 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:28:43,669 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:28:50,142 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:28:50,151 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:28:50,338 - Frame1 -INFO - Browser Closed
+2023-08-17 23:28:51,949 - Frame1 -INFO - Chrome launched
+2023-08-17 23:28:54,209 - Frame1 -INFO - url Loaded
+2023-08-17 23:28:54,386 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:28:54,397 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-17 23:28:57,882 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:28:57,882 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-17 23:28:58,088 - Frame1 -INFO - Browser Closed
+2023-08-17 23:28:58,088 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:29:36,851 - Frame1 -INFO - Logger Started
+2023-08-17 23:29:40,630 - Frame1 -INFO - Chrome launched
+2023-08-17 23:29:42,848 - Frame1 -INFO - url Loaded
+2023-08-17 23:29:43,012 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:29:43,034 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:29:49,538 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:29:49,538 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:29:49,775 - Frame1 -INFO - Browser Closed
+2023-08-17 23:29:52,454 - Frame1 -INFO - Chrome launched
+2023-08-17 23:29:54,697 - Frame1 -INFO - url Loaded
+2023-08-17 23:29:54,855 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:29:54,855 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-17 23:30:01,866 - Frame1 -ERROR - TestCase Execution Failed_(loginTest)
+2023-08-17 23:30:02,342 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:30:02,540 - Frame1 -INFO - Browser Closed
+2023-08-17 23:30:02,541 - Frame1 -INFO - Framework Executed Successfully
+2023-08-17 23:32:14,749 - Frame1 -INFO - Logger Started
+2023-08-17 23:32:18,544 - Frame1 -INFO - Chrome launched
+2023-08-17 23:32:21,043 - Frame1 -INFO - url Loaded
+2023-08-17 23:32:21,204 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:32:21,221 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:32:27,759 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:32:27,761 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:32:27,990 - Frame1 -INFO - Browser Closed
+2023-08-17 23:32:31,506 - Frame1 -INFO - Chrome launched
+2023-08-17 23:32:36,991 - Frame1 -INFO - url Loaded
+2023-08-17 23:32:37,163 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:32:37,164 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-17 23:32:40,631 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:32:40,632 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-17 23:32:40,813 - Frame1 -INFO - Browser Closed
+2023-08-17 23:32:40,814 - Frame1 -INFO - Framework Executed Successfully
+>>>>>>> Stashed changes
+2023-08-17 23:41:10,456 - Frame1 -INFO - Logger Started
+2023-08-17 23:41:14,682 - Frame1 -INFO - Chrome launched
+2023-08-17 23:41:16,965 - Frame1 -INFO - url Loaded
+2023-08-17 23:41:17,128 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:41:17,152 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:41:23,619 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:41:23,622 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:41:23,858 - Frame1 -INFO - Browser Closed
+2023-08-17 23:41:27,728 - Frame1 -INFO - Chrome launched
+2023-08-17 23:41:29,990 - Frame1 -INFO - url Loaded
+2023-08-17 23:41:30,149 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:41:30,149 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-17 23:41:33,662 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:41:33,663 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-17 23:41:33,849 - Frame1 -INFO - Browser Closed
+2023-08-17 23:41:33,852 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 00:33:26,911 - Frame1 -INFO - Logger Started
+2023-08-18 00:33:29,869 - Frame1 -INFO - Chrome launched
+2023-08-18 00:33:32,106 - Frame1 -INFO - url Loaded
+2023-08-18 00:33:32,295 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 00:33:32,316 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 00:33:38,600 - Frame1 -INFO - Screenshot Taken
+2023-08-18 00:33:38,601 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 00:33:38,824 - Frame1 -INFO - Browser Closed
+2023-08-18 00:33:41,739 - Frame1 -INFO - Chrome launched
+2023-08-18 00:33:44,215 - Frame1 -INFO - url Loaded
+2023-08-18 00:33:44,382 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 00:33:44,382 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 00:33:50,266 - Frame1 -INFO - Screenshot Taken
+2023-08-18 00:33:50,267 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 00:33:50,475 - Frame1 -INFO - Browser Closed
+2023-08-18 00:33:50,477 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:13:41,031 - Frame1 -INFO - Logger Started
+2023-08-18 01:13:44,978 - Frame1 -INFO - Chrome launched
+2023-08-18 01:13:47,721 - Frame1 -INFO - url Loaded
+2023-08-18 01:13:47,902 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:13:47,929 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:13:58,599 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:13:58,608 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 01:13:59,058 - Frame1 -INFO - Browser Closed
+2023-08-18 01:14:02,393 - Frame1 -INFO - Chrome launched
+2023-08-18 01:14:04,844 - Frame1 -INFO - url Loaded
+2023-08-18 01:14:05,060 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:14:05,066 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 01:14:07,693 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:14:07,701 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 01:14:08,018 - Frame1 -INFO - Browser Closed
+2023-08-18 01:14:08,021 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:14:14,156 - Frame1 -INFO - Logger Started
+2023-08-18 01:14:19,621 - Frame1 -INFO - Chrome launched
+2023-08-18 01:14:22,754 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:14:22,758 - Frame1 -INFO - Test Case Skipped(fileUpload)
+2023-08-18 01:14:22,768 - Frame1 -INFO - Browser Closed
+2023-08-18 01:14:24,828 - Frame1 -INFO - Chrome launched
+2023-08-18 01:14:27,362 - Frame1 -INFO - url Loaded
+2023-08-18 01:14:27,597 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:14:27,654 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 01:14:27,660 - Frame1 -INFO - Test Case Skipped(testFilpkart)
+2023-08-18 01:14:27,967 - Frame1 -INFO - Browser Closed
+2023-08-18 01:14:27,971 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:20:46,772 - Frame1 -INFO - Logger Started
+2023-08-18 01:20:51,705 - Frame1 -INFO - Chrome launched
+2023-08-18 01:20:54,169 - Frame1 -INFO - url Loaded
+2023-08-18 01:20:54,193 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:20:54,194 - Frame1 -INFO - Test Case Skipped(fileUpload)
+2023-08-18 01:20:54,381 - Frame1 -INFO - Browser Closed
+2023-08-18 01:20:56,645 - Frame1 -INFO - Chrome launched
+2023-08-18 01:20:59,072 - Frame1 -INFO - url Loaded
+2023-08-18 01:20:59,301 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:20:59,350 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 01:20:59,351 - Frame1 -INFO - Test Case Skipped(loginTest)
+2023-08-18 01:20:59,617 - Frame1 -INFO - Browser Closed
+2023-08-18 01:20:59,621 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:22:42,371 - Frame1 -INFO - Logger Started
+2023-08-18 01:22:45,662 - Frame1 -INFO - Chrome launched
+2023-08-18 01:22:48,690 - Frame1 -INFO - url Loaded
+2023-08-18 01:22:48,902 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:22:48,942 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:22:55,858 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:22:55,858 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 01:22:56,323 - Frame1 -INFO - Browser Closed
+2023-08-18 01:22:59,271 - Frame1 -INFO - Chrome launched
+2023-08-18 01:23:01,673 - Frame1 -INFO - url Loaded
+2023-08-18 01:23:01,889 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:23:01,892 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 01:23:04,769 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:23:04,772 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 01:23:05,083 - Frame1 -INFO - Browser Closed
+2023-08-18 01:23:05,085 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:29:30,890 - Frame1 -INFO - Logger Started
+2023-08-18 01:29:35,926 - Frame1 -INFO - Chrome launched
+2023-08-18 01:29:38,770 - Frame1 -INFO - url Loaded
+2023-08-18 01:29:39,002 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:29:39,049 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:29:47,224 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:29:47,232 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 01:29:47,630 - Frame1 -INFO - Browser Closed
+2023-08-18 01:29:50,926 - Frame1 -INFO - Chrome launched
+2023-08-18 01:29:53,336 - Frame1 -INFO - url Loaded
+2023-08-18 01:29:53,550 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:29:53,553 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 01:29:57,519 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:29:57,520 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 01:29:57,853 - Frame1 -INFO - Browser Closed
+2023-08-18 01:29:57,856 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:30:13,846 - Frame1 -INFO - Logger Started
+2023-08-18 01:30:17,103 - Frame1 -INFO - Chrome launched
+2023-08-18 01:30:21,237 - Frame1 -INFO - url Loaded
+2023-08-18 01:30:22,430 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:30:22,491 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:30:29,930 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:30:29,930 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 01:30:30,362 - Frame1 -INFO - Browser Closed
+2023-08-18 01:30:32,611 - Frame1 -INFO - Chrome launched
+2023-08-18 01:30:35,101 - Frame1 -INFO - url Loaded
+2023-08-18 01:30:35,339 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:30:35,341 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 01:30:39,060 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:30:39,061 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 01:30:39,360 - Frame1 -INFO - Browser Closed
+2023-08-18 01:30:41,486 - Frame1 -INFO - Chrome launched
+2023-08-18 01:30:43,907 - Frame1 -INFO - url Loaded
+2023-08-18 01:30:44,140 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:30:44,142 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 01:30:47,964 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:30:47,965 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 01:30:48,370 - Frame1 -INFO - Browser Closed
+2023-08-18 01:30:48,373 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:41:46,084 - Frame1 -INFO - Logger Started
+2023-08-18 01:41:50,351 - Frame1 -INFO - Chrome launched
+2023-08-18 01:41:52,854 - Frame1 -INFO - url Loaded
+2023-08-18 01:41:53,097 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:41:53,137 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:41:59,930 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:41:59,932 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 01:42:00,253 - Frame1 -INFO - Browser Closed
+2023-08-18 01:42:02,374 - Frame1 -INFO - Chrome launched
+2023-08-18 01:42:04,763 - Frame1 -INFO - url Loaded
+2023-08-18 01:42:05,018 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:42:05,020 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 01:42:08,791 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:42:08,792 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 01:42:09,108 - Frame1 -INFO - Browser Closed
+2023-08-18 01:42:12,211 - Frame1 -INFO - Chrome launched
+2023-08-18 01:42:14,601 - Frame1 -INFO - url Loaded
+2023-08-18 01:42:14,803 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:42:14,804 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 01:42:17,428 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:42:17,428 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 01:42:17,751 - Frame1 -INFO - Browser Closed
+2023-08-18 01:42:17,751 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 01:43:43,701 - Frame1 -INFO - Logger Started
+2023-08-18 01:44:17,144 - Frame1 -INFO - Logger Started
+2023-08-18 01:46:04,230 - Frame1 -INFO - Logger Started
+2023-08-18 01:46:07,518 - Frame1 -INFO - Chrome launched
+2023-08-18 01:49:26,692 - Frame1 -INFO - Logger Started
+2023-08-18 01:51:28,690 - Frame1 -INFO - Logger Started
+2023-08-18 01:51:39,761 - Frame1 -INFO - Logger Started
+2023-08-18 01:52:07,932 - Frame1 -INFO - Logger Started
+2023-08-18 01:52:11,444 - Frame1 -INFO - Chrome launched
+2023-08-18 01:52:13,106 - Frame1 -INFO - url Loaded
+2023-08-18 01:52:13,130 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:52:13,131 - Frame1 -INFO - Test Case Skipped(fileUpload)
+2023-08-18 01:52:13,354 - Frame1 -INFO - Browser Closed
+2023-08-18 01:53:44,758 - Frame1 -INFO - Logger Started
+2023-08-18 01:53:49,220 - Frame1 -INFO - Chrome launched
+2023-08-18 01:53:50,368 - Frame1 -INFO - url Loaded
+2023-08-18 01:53:50,398 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:53:50,399 - Frame1 -INFO - Test Case Skipped(fileUpload)
+2023-08-18 01:53:50,654 - Frame1 -INFO - Browser Closed
+2023-08-18 01:53:52,813 - Frame1 -INFO - Chrome launched
+2023-08-18 01:54:09,728 - Frame1 -INFO - Logger Started
+2023-08-18 01:54:12,994 - Frame1 -INFO - Chrome launched
+2023-08-18 01:54:15,411 - Frame1 -INFO - url Loaded
+2023-08-18 01:54:15,646 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:54:15,691 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 01:54:22,677 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:54:22,680 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 01:54:23,094 - Frame1 -INFO - Browser Closed
+2023-08-18 01:54:25,279 - Frame1 -INFO - Chrome launched
+2023-08-18 01:54:27,773 - Frame1 -INFO - url Loaded
+2023-08-18 01:54:27,994 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:54:27,995 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 01:54:31,964 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:54:31,965 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 01:54:32,336 - Frame1 -INFO - Browser Closed
+2023-08-18 01:54:34,432 - Frame1 -INFO - Chrome launched
+2023-08-18 01:54:37,238 - Frame1 -INFO - url Loaded
+2023-08-18 01:54:37,442 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 01:54:37,445 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 01:54:40,993 - Frame1 -INFO - Screenshot Taken
+2023-08-18 01:54:40,994 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 01:54:41,371 - Frame1 -INFO - Browser Closed
+2023-08-18 01:54:41,377 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 02:02:32,269 - Frame1 -INFO - Logger Started
+2023-08-18 02:02:36,788 - Frame1 -INFO - Chrome launched
+2023-08-18 02:02:39,219 - Frame1 -INFO - url Loaded
+2023-08-18 02:02:39,463 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:02:39,511 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 02:02:43,979 - Frame1 -INFO - Logger Started
+2023-08-18 02:02:47,359 - Frame1 -INFO - Chrome launched
+2023-08-18 02:02:48,638 - Frame1 -INFO - url Loaded
+2023-08-18 02:02:48,660 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 02:02:48,661 - Frame1 -INFO - Test Case Skipped(fileUpload)
+2023-08-18 02:02:48,904 - Frame1 -INFO - Browser Closed
+2023-08-18 02:02:48,909 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 02:02:59,921 - Frame1 -INFO - Logger Started
+2023-08-18 02:03:04,246 - Frame1 -INFO - Chrome launched
+2023-08-18 02:03:08,631 - Frame1 -INFO - Logger Started
+2023-08-18 02:03:12,899 - Frame1 -INFO - Chrome launched
+2023-08-18 02:04:01,873 - Frame1 -INFO - Logger Started
+2023-08-18 02:04:06,518 - Frame1 -INFO - Chrome launched
+2023-08-18 02:07:01,958 - Frame1 -INFO - Logger Started
+2023-08-18 02:07:06,575 - Frame1 -INFO - Chrome launched
+2023-08-18 02:07:09,026 - Frame1 -INFO - url Loaded
+2023-08-18 02:07:09,248 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:07:09,272 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 02:07:16,238 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:07:16,240 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 02:07:16,562 - Frame1 -INFO - Browser Closed
+2023-08-18 02:07:19,846 - Frame1 -INFO - Chrome launched
+2023-08-18 02:07:22,293 - Frame1 -INFO - url Loaded
+2023-08-18 02:07:22,511 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:07:22,512 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 02:07:26,249 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:07:26,251 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 02:07:26,573 - Frame1 -INFO - Browser Closed
+2023-08-18 02:07:28,638 - Frame1 -INFO - Chrome launched
+2023-08-18 02:07:31,164 - Frame1 -INFO - url Loaded
+2023-08-18 02:07:31,359 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:07:31,362 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 02:07:34,253 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:07:34,256 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 02:07:34,602 - Frame1 -INFO - Browser Closed
+2023-08-18 02:07:34,605 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 02:09:19,645 - Frame1 -INFO - Logger Started
+2023-08-18 02:09:23,265 - Frame1 -INFO - Chrome launched
+2023-08-18 02:09:26,110 - Frame1 -INFO - url Loaded
+2023-08-18 02:09:26,322 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:09:26,381 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 02:09:33,320 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:09:33,327 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 02:09:33,718 - Frame1 -INFO - Browser Closed
+2023-08-18 02:09:35,944 - Frame1 -INFO - Chrome launched
+2023-08-18 02:09:38,429 - Frame1 -INFO - url Loaded
+2023-08-18 02:09:38,658 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:09:38,662 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 02:09:42,538 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:09:42,539 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 02:09:42,843 - Frame1 -INFO - Browser Closed
+2023-08-18 02:09:46,052 - Frame1 -INFO - Chrome launched
+2023-08-18 02:09:48,602 - Frame1 -INFO - url Loaded
+2023-08-18 02:09:48,840 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:09:48,843 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 02:09:51,618 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:09:51,618 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 02:09:51,936 - Frame1 -INFO - Browser Closed
+2023-08-18 02:09:51,938 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 02:10:05,553 - Frame1 -INFO - Logger Started
+2023-08-18 02:10:08,807 - Frame1 -INFO - Chrome launched
+2023-08-18 02:10:11,297 - Frame1 -INFO - url Loaded
+2023-08-18 02:10:11,508 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 02:10:11,540 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 02:10:18,444 - Frame1 -INFO - Screenshot Taken
+2023-08-18 02:10:18,444 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 02:10:18,845 - Frame1 -INFO - Browser Closed
+2023-08-18 02:10:21,170 - Frame1 -INFO - Chrome launched
+2023-08-18 09:09:55,121 - Frame1 -INFO - Logger Started
+2023-08-18 09:09:59,662 - Frame1 -INFO - Chrome launched
+2023-08-18 09:10:02,396 - Frame1 -INFO - url Loaded
+2023-08-18 09:10:02,561 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:10:02,580 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 09:10:10,032 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:10:10,032 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 09:10:10,238 - Frame1 -INFO - Browser Closed
+2023-08-18 09:10:12,331 - Frame1 -INFO - Chrome launched
+2023-08-18 09:10:15,146 - Frame1 -INFO - url Loaded
+2023-08-18 09:10:15,313 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:10:15,314 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 09:10:19,774 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:10:19,775 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 09:10:20,006 - Frame1 -INFO - Browser Closed
+2023-08-18 09:10:22,039 - Frame1 -INFO - Chrome launched
+2023-08-18 09:10:29,349 - Frame1 -INFO - url Loaded
+2023-08-18 09:10:29,518 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:10:29,519 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 09:10:32,927 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:10:32,928 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 09:10:33,127 - Frame1 -INFO - Browser Closed
+2023-08-18 09:10:33,132 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 09:12:57,026 - Frame1 -INFO - Logger Started
+2023-08-18 09:13:00,052 - Frame1 -INFO - Chrome launched
+2023-08-18 09:13:02,748 - Frame1 -INFO - url Loaded
+2023-08-18 09:13:02,917 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:13:02,943 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 09:13:07,478 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:13:07,479 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 09:13:07,699 - Frame1 -INFO - Browser Closed
+2023-08-18 09:13:09,778 - Frame1 -INFO - Chrome launched
+2023-08-18 09:13:12,424 - Frame1 -INFO - url Loaded
+2023-08-18 09:13:12,587 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:13:12,587 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 09:13:15,506 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:13:15,509 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 09:13:15,753 - Frame1 -INFO - Browser Closed
+2023-08-18 09:13:15,754 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 09:13:25,796 - Frame1 -INFO - Logger Started
+2023-08-18 09:13:28,769 - Frame1 -INFO - Chrome launched
+2023-08-18 09:13:31,482 - Frame1 -INFO - url Loaded
+2023-08-18 09:13:31,643 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:13:31,664 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-18 09:13:39,017 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:13:39,018 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-18 09:13:39,245 - Frame1 -INFO - Browser Closed
+2023-08-18 09:13:41,435 - Frame1 -INFO - Chrome launched
+2023-08-18 09:13:44,115 - Frame1 -INFO - url Loaded
+2023-08-18 09:13:44,278 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:13:44,278 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-18 09:13:48,536 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:13:48,537 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-18 09:13:48,736 - Frame1 -INFO - Browser Closed
+2023-08-18 09:13:50,772 - Frame1 -INFO - Chrome launched
+2023-08-18 09:13:53,476 - Frame1 -INFO - url Loaded
+2023-08-18 09:13:53,657 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-18 09:13:53,658 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-18 09:13:58,521 - Frame1 -INFO - Screenshot Taken
+2023-08-18 09:13:58,522 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-18 09:13:58,700 - Frame1 -INFO - Browser Closed
+2023-08-18 09:13:58,701 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-18 12:41:54,453 - Frame1 -INFO - Logger Started
+2023-08-18 12:42:18,723 - Frame1 -INFO - Logger Started
+2023-08-18 12:42:22,470 - Frame1 -INFO - Chrome launched
+2023-08-18 12:42:38,505 - Frame1 -INFO - Logger Started
+2023-08-18 12:42:41,776 - Frame1 -INFO - Chrome launched
+2023-08-18 12:52:51,798 - Frame1 -INFO - Logger Started
+2023-08-19 10:22:31,701 - Frame1 -INFO - Logger Started
+2023-08-19 10:25:17,761 - Frame1 -INFO - Logger Started
+2023-08-19 10:25:17,766 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-19 10:25:17,785 - Frame1 -INFO - Testng Initialized
+2023-08-19 10:25:17,787 - Frame1 -INFO - Listeners Added
+2023-08-19 10:25:17,788 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-19 10:25:17,875 - Frame1 -INFO - TestClasses Initialized
+2023-08-19 10:25:18,889 - Frame1 -INFO - ExcelHandling class Initialized
+2023-08-19 10:25:19,356 - Frame1 -INFO - Excel Values taken
+2023-08-19 10:25:19,357 - Frame1 -INFO - Test output file created
+2023-08-19 10:25:19,448 - Frame1 -INFO - Logger Started
+2023-08-19 10:25:23,190 - Frame1 -INFO - Chrome launched
+2023-08-19 10:26:57,540 - Frame1 -INFO - Logger Started
+2023-08-19 10:26:57,544 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-19 10:26:57,567 - Frame1 -INFO - Testng Initialized
+2023-08-19 10:26:57,568 - Frame1 -INFO - Listeners Added
+2023-08-19 10:26:57,569 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-19 10:26:57,649 - Frame1 -INFO - TestClasses Initialized
+2023-08-19 10:26:58,660 - Frame1 -INFO - ExcelHandling class Initialized
+2023-08-19 10:26:59,346 - Frame1 -INFO - Excel Values taken
+2023-08-19 10:26:59,347 - Frame1 -INFO - Test output file created
+2023-08-19 10:26:59,461 - Frame1 -INFO - Logger Started
+2023-08-19 10:27:01,958 - Frame1 -INFO - Chrome launched
+2023-08-19 10:28:16,998 - Frame1 -INFO - Logger Started
+2023-08-19 10:28:17,013 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-19 10:28:17,029 - Frame1 -INFO - Testng Initialized
+2023-08-19 10:28:17,029 - Frame1 -INFO - Listeners Added
+2023-08-19 10:28:17,029 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-19 10:28:17,123 - Frame1 -INFO - TestClasses Initialized
+2023-08-19 10:28:18,125 - Frame1 -INFO - ExcelHandling class Initialized
+2023-08-19 10:28:18,829 - Frame1 -INFO - Excel Values taken
+2023-08-19 10:28:18,829 - Frame1 -INFO - Test output file created
+2023-08-19 10:28:18,923 - Frame1 -INFO - Logger Started
+2023-08-19 10:28:21,491 - Frame1 -INFO - Chrome launched

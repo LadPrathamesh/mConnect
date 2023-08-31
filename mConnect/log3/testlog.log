@@ -1,0 +1,64 @@
+2023-08-16 20:03:33,275 - Frame1 -INFO - Logger Started
+2023-08-16 20:03:36,730 - Frame1 -INFO - Chrome launched
+2023-08-16 20:03:38,130 - Frame1 -INFO - url Loaded
+2023-08-16 20:03:38,348 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:03:38,405 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:03:44,752 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:03:44,752 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:03:45,210 - Frame1 -INFO - Browser Closed
+2023-08-16 20:03:48,541 - Frame1 -INFO - Chrome launched
+2023-08-16 20:03:51,346 - Frame1 -INFO - url Loaded
+2023-08-16 20:03:51,574 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:03:51,584 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:03:54,117 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:03:54,120 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:03:54,499 - Frame1 -INFO - Browser Closed
+2023-08-16 20:03:54,502 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:04:19,689 - Frame1 -INFO - Logger Started
+2023-08-16 20:04:22,674 - Frame1 -INFO - Chrome launched
+2023-08-16 20:04:24,056 - Frame1 -INFO - url Loaded
+2023-08-16 20:04:24,266 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:04:24,331 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:04:30,518 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:04:30,540 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:04:31,014 - Frame1 -INFO - Browser Closed
+2023-08-16 20:04:33,173 - Frame1 -INFO - Chrome launched
+2023-08-16 20:04:34,667 - Frame1 -INFO - url Loaded
+2023-08-16 20:04:34,884 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:04:34,889 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:04:37,406 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:04:37,413 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:04:37,744 - Frame1 -INFO - Browser Closed
+2023-08-16 20:04:37,748 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:05:08,175 - Frame1 -INFO - Logger Started
+2023-08-16 20:05:11,266 - Frame1 -INFO - Chrome launched
+2023-08-16 20:05:12,812 - Frame1 -INFO - url Loaded
+2023-08-16 20:05:13,017 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:05:13,072 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:05:19,324 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:05:19,355 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:05:19,807 - Frame1 -INFO - Browser Closed
+2023-08-16 20:05:21,922 - Frame1 -INFO - Chrome launched
+2023-08-16 20:05:23,182 - Frame1 -INFO - url Loaded
+2023-08-16 20:05:23,398 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:05:23,413 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:05:26,833 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:05:26,833 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:05:27,165 - Frame1 -INFO - Browser Closed
+2023-08-16 20:05:27,165 - Frame1 -INFO - Framework Executed Successfully
+2023-08-16 20:05:45,961 - Frame1 -INFO - Logger Started
+2023-08-16 20:05:48,922 - Frame1 -INFO - Chrome launched
+2023-08-16 20:05:50,429 - Frame1 -INFO - url Loaded
+2023-08-16 20:05:50,666 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:05:50,728 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-16 20:05:56,942 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:05:56,950 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-16 20:05:57,325 - Frame1 -INFO - Browser Closed
+2023-08-16 20:05:59,882 - Frame1 -INFO - Chrome launched
+2023-08-16 20:06:01,420 - Frame1 -INFO - url Loaded
+2023-08-16 20:06:01,641 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-16 20:06:01,649 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-16 20:06:04,232 - Frame1 -INFO - Screenshot Taken
+2023-08-16 20:06:04,235 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 20:06:04,611 - Frame1 -INFO - Browser Closed
+2023-08-16 20:06:04,615 - Frame1 -INFO - Framework Executed Successfully
