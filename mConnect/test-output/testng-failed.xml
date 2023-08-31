@@ -5,9 +5,9 @@
     <classes>
       <class name="testCases.TestCases">
         <methods>
+          <include name="dealerLocator"/>
           <include name="setUp"/>
           <include name="start"/>
-          <include name="MTP"/>
           <include name="TakeDown"/>
           <include name="stop"/>
         </methods>
