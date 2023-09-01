@@ -11,6 +11,7 @@ public class ElementDropdown extends TestBase{
 	TakeScreenshots takeScreenshot = new TakeScreenshots();
 	public void select(int fieldPosition, String screenshotName, int pos) throws InterruptedException {
 	Actions actions = new Actions(driver);
+	
 	WebElement firstField = driver.findElement(By.xpath("(//input[@id='grouped-demo'])["+fieldPosition+"]"));
 	firstField.click();
 	Thread.sleep(3000);
@@ -19,6 +20,21 @@ public class ElementDropdown extends TestBase{
 	takeScreenshot.save(screenshotName);
 	String firstFieldText = firstField.getAttribute("value");
 	System.out.println(firstFieldText);
+	String inputValue = firstField.getAttribute("value");
+	
+	}
+	public void loginSS() throws InterruptedException {
+		WebElement sidebar = driver.findElement(By.xpath("//a[@role='button']"));
+		sidebar.click();
+		Thread.sleep(1000);
+		takeScreenshot.save("_LoginSucess_");
+	}
+	
+	public String inputValueMethod() {
+		ElementDropdown el = new ElementDropdown();
+		String getValue = el.inputValueMethod();
+		return getValue;
+		
 	}
 	
 	public void select2(int fieldPosition, String screenshotName,int pos) throws InterruptedException {
