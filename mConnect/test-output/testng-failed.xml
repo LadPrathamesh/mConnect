@@ -5,10 +5,10 @@
     <classes>
       <class name="testCases.TestCases">
         <methods>
-          <include name="dealerLocator"/>
           <include name="setUp"/>
           <include name="start"/>
           <include name="TakeDown"/>
+          <include name="myDairy" invocation-numbers="28 29"/>
           <include name="stop"/>
         </methods>
       </class> <!-- testCases.TestCases -->

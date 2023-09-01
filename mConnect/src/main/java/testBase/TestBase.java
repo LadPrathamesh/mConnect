@@ -35,6 +35,7 @@ public class TestBase {
 	public LoginAs loginAs;
 	public ElementDropdown elementDropdown ;
 	
+	
 		
 	@BeforeClass (alwaysRun = true) // annotation added as @BeforeClass @BeforeMethod to be run before any test cases are running.
 									// alwayRun attribute is added because when main method runs the suite then this methods are not running.
