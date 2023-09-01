@@ -11,17 +11,20 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
 import testBase.TestBase;
+import utility.ExcelDataProvider;
 
 public class TestCases extends TestBase{
 
 
 //========================================================================
-	@Test 		(groups = {"Smoke","Sanity"})
-	public void dealerLocator() throws InterruptedException {
+	@Test(dataProvider = "loginData", dataProviderClass = ExcelDataProvider.class)
+	public void dealerLocator(String username, String password) throws InterruptedException {
 		
 		
-		login.enterUsername("cs.anand@pidilite.com");
-		login.enterPassword("Pidilite@123"); 
+
+		login.enterUsername(username); 
+		login.enterPassword(password);
+
 		login.clickOnLogin();
 		Thread.sleep(6000);
 		
@@ -67,7 +70,11 @@ public class TestCases extends TestBase{
 			Thread.sleep(1);
 			}
 	
-	
+		@Test(dataProvider = "loginData", dataProviderClass = ExcelDataProvider.class)
+	    public void testLogin(String username, String password) {
+	        // Your test code here
+	        System.out.println("Username: " + username + ", Password: " + password);
+	    }
 	
 	
 	
