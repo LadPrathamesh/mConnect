@@ -21,7 +21,7 @@ public class TestCases extends TestBase{
 	public void dealerLocator(String username, String password) throws InterruptedException {
 		
 		
-		login.enterUsername(username);
+		login.enterUsername(username); 
 		login.enterPassword(password);
 		login.clickOnLogin();
 		Thread.sleep(6000);
