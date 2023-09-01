@@ -21,7 +21,7 @@ public class TestCases extends TestBase{
 		
 		
 		login.enterUsername("cs.anand@pidilite.com");
-		login.enterPassword("Pidilite@123");
+		login.enterPassword("Pidilite@123"); 
 		login.clickOnLogin();
 		Thread.sleep(6000);
 		
