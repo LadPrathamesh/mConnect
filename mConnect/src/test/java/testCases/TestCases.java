@@ -32,8 +32,8 @@ public class TestCases extends TestBase{
 		Thread.sleep(500);
 		driver.get("https://mconnect.pidilite.com/dealer-locator");
 
-		elementDropdown.select(1, "First Dealer Locator"+"__"+username);
-		elementDropdown.select(2, "Second Dealer Locator"+"__"+username);
+		elementDropdown.select(1, "First Dealer Locator"+"__"+username,50);
+		elementDropdown.select(2, "Second Dealer Locator"+"__"+username,50);
 
 		
 		
@@ -44,7 +44,7 @@ public class TestCases extends TestBase{
 		}
 
 //========================================================================
-		@Test 		(groups = {"Smoke","Sanity"})// 07 Aug 2023 | Tester 1    // Sample test case
+	@Test(dataProvider = "loginData", dataProviderClass = ExcelDataProvider.class)
 		public void MTP() throws InterruptedException {
 			
 			
@@ -57,9 +57,9 @@ public class TestCases extends TestBase{
 //			Thread.sleep(1000);
 			driver.get("https://mconnect.pidilite.com/monthly-tour-plan");
 
-			elementDropdown.select(1, "FirstMTP");
-			elementDropdown.select(2, "SecondMTP");
-			elementDropdown.select(3, "ThirdMTP");
+			elementDropdown.select(1, "FirstMTP",50);
+			elementDropdown.select(2, "SecondMTP",50);
+			elementDropdown.select(3, "ThirdMTP",50);
 			
 			
 			
@@ -71,9 +71,22 @@ public class TestCases extends TestBase{
 			}
 	
 		@Test(dataProvider = "loginData", dataProviderClass = ExcelDataProvider.class)
-	    public void testLogin(String username, String password) {
+	    public void myDairy(String username, String password) throws InterruptedException {
 	        // Your test code here
-	        System.out.println("Username: " + username + ", Password: " + password);
+			login.enterUsername("cs.anand@pidilite.com");
+			login.enterPassword("Pidilite@123");
+			login.clickOnLogin();
+			Thread.sleep(6000);
+			
+			driver.get("https://mconnect.pidilite.com/my-diary");
+			Thread.sleep(1);
+			driver.get("https://mconnect.pidilite.com/my-diary");
+	        elementDropdown.select(1, "myDairy_"+username,50);
+	        elementDropdown.select(2, "myDairy_"+username,50);
+	        elementDropdown.select2(1, "myDairy_"+username,-50);
+	        
+	      //button[text()='WSS']
+			
 	    }
 	
 	
