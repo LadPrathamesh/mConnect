@@ -39,8 +39,7 @@ public class ElementDropdown extends TestBase{
 	
 	public void select2(int fieldPositionSelect2, String screenshotName,int pos) throws InterruptedException {
 		Actions actions = new Actions(driver);
-		String xpath = ElementDropdown.xPathSelect(fieldPositionSelect2);
-		WebElement firstField = driver.findElement(By.xpath(xpath));
+		WebElement firstField = driver.findElement(By.xpath("(//input[@id='grouped-demos'])["+fieldPositionSelect2+"]"));
 		firstField.click();
 		Thread.sleep(3000);
 	    actions.moveToElement(firstField).perform();
@@ -50,9 +49,15 @@ public class ElementDropdown extends TestBase{
 		System.out.println(firstFieldText);
 		}
 	
-	public static String xPathSelect(int fieldPositionSelect2) {
-		return "(//input[@id='grouped-demos'])["+fieldPositionSelect2+"]";
-		
+	public String getTextField1(int fieldPositionSelect1) {
+		WebElement firstField = driver.findElement(By.xpath("(//input[@id='grouped-demo'])["+fieldPositionSelect1+"]"));
+		String inputValue = firstField.getAttribute("value");
+		return inputValue;
+	}
+	public String getTextField2(int fieldPositionSelect2) {
+		WebElement firstField = driver.findElement(By.xpath("(//input[@id='grouped-demos'])["+fieldPositionSelect2+"]"));
+		String inputValue = firstField.getAttribute("value");
+		return inputValue;
 	}
 	
 }
