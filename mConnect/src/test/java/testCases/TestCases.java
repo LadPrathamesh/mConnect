@@ -73,7 +73,7 @@ public class TestCases extends TestBase{
 			
 			Thread.sleep(1);
 			}
-	
+	public String dealerOutput;
 		@Test(dataProvider = "loginData", dataProviderClass = ExcelDataProvider.class)
 	    public void myDairy(String username, String password) throws InterruptedException, IOException {
 	        // Your test code here
@@ -84,14 +84,27 @@ public class TestCases extends TestBase{
 			ElementDropdown ed = new ElementDropdown();
 			ed.loginSS();
 			
+			try{
 			driver.get("https://mconnect.pidilite.com/my-diary");
 			Thread.sleep(1);
 			driver.get("https://mconnect.pidilite.com/my-diary");
+			
 	        elementDropdown.select(1, "myDairy_"+username,50);
+	        String one = elementDropdown.getTextField1(1);
 	        elementDropdown.select(2, "myDairy_"+username,50);
+	        String two = elementDropdown.getTextField1(2);
 	        elementDropdown.select2(1, "myDairy_"+username,50);
+	        String three = elementDropdown.getTextField2(1);
 	        elementDropdown.select2(1, "myDairy_"+username,-50);
+	        String four = elementDropdown.getTextField2(1);
 	        takeScreenshot.save("myDairy_"+username+"_");
+	        System.out.println("test one1");
+	        dealerOutput = one+"__"+two+"__"+three+"__"+four;
+	        System.out.println(dealerOutput);
+	        System.out.println("test one2");
+			}catch(Exception e) {
+				System.out.println("Dealer tab issue");
+			}
 	        
 	      //button[text()='WSS']
 	        WebElement wss = driver.findElement(By.xpath("//button[text()='WSS']"));
@@ -113,9 +126,9 @@ public class TestCases extends TestBase{
 	        
 	        
 	        
-	        String iVV = elementDropdown.inputValueMethod();
-//	        excel.writeDataToExcel(username, iVV);
-			System.out.println(iVV);
+//	        String iVV = elementDropdown.inputValueMethod();
+	        excel.writeDataToExcel(username, dealerOutput);
+//			System.out.println(iVV);
 	    }
 	
 	
