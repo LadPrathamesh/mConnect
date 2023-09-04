@@ -18,16 +18,13 @@ public class ElementDropdown extends TestBase{
     actions.moveToElement(firstField).perform();
     actions.moveByOffset(0, pos).click().perform();
 	takeScreenshot.save(screenshotName);
-	String firstFieldText = firstField.getAttribute("value");
-	System.out.println(firstFieldText);
-	String inputValue = firstField.getAttribute("value");
 	
 	}
-	public void loginSS() throws InterruptedException {
+	public void loginSS(String username) throws InterruptedException {
 		WebElement sidebar = driver.findElement(By.xpath("//a[@role='button']"));
 		sidebar.click();
 		Thread.sleep(1000);
-		takeScreenshot.save("_LoginSucess_");
+		takeScreenshot.save("_LoginSucess_"+username);
 	}
 	
 	public String inputValueMethod() {
@@ -43,10 +40,8 @@ public class ElementDropdown extends TestBase{
 		firstField.click();
 		Thread.sleep(3000);
 	    actions.moveToElement(firstField).perform();
+	    takeScreenshot.save(screenshotName);
 	    actions.moveByOffset(0, pos).click().perform();
-		takeScreenshot.save(screenshotName);
-		String firstFieldText = firstField.getAttribute("value");
-		System.out.println(firstFieldText);
 		}
 	
 	public String getTextField1(int fieldPositionSelect1) {

@@ -25,7 +25,7 @@ public class TakeScreenshots extends TestBase{
 			String dateTime1 = GetCurrentDateTime.CurrentDateTime();
 			File des = new File(path+filename+"_"+dateTime1+".png");
 			FileHandler.copy(src, des);
-			logger.info("Screenshot Taken");
+			logger.info("Screenshot Taken ("+filename+")"+"_");
 			
 		} catch (IOException e) {
 		
