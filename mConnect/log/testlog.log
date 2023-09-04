@@ -3689,3 +3689,1105 @@
 2023-09-01 16:14:56,691 - Frame1 -INFO - url Loaded
 2023-09-01 16:14:56,833 - Frame1 -INFO - maximized Browser window and added waits
 2023-09-01 16:15:04,353 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:18:48,840 - Frame1 -INFO - Logger Started
+2023-09-04 17:19:00,783 - Frame1 -INFO - Chrome launched
+2023-09-04 17:19:04,572 - Frame1 -INFO - url Loaded
+2023-09-04 17:19:04,758 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:19:12,814 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:17,919 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:21,893 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:25,771 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:29,586 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:29,961 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:33,954 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:37,953 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:38,232 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:42,359 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:42,752 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:46,875 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:50,826 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:19:51,501 - Frame1 -INFO - Browser Closed
+2023-09-04 17:19:52,567 - Frame1 -INFO - Chrome launched
+2023-09-04 17:19:55,271 - Frame1 -INFO - url Loaded
+2023-09-04 17:19:55,459 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:20:03,485 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:08,944 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:12,960 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:16,836 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:20,795 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:21,179 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:25,113 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:28,970 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:29,336 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:33,372 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:33,771 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:37,749 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:41,655 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:20:42,133 - Frame1 -INFO - Browser Closed
+2023-09-04 17:20:43,215 - Frame1 -INFO - Chrome launched
+2023-09-04 17:20:46,661 - Frame1 -INFO - url Loaded
+2023-09-04 17:20:46,839 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:20:54,736 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:00,093 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:04,063 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:08,079 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:12,084 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:12,480 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:16,735 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:20,687 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:21,051 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:25,364 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:25,777 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:30,000 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:33,932 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:34,357 - Frame1 -INFO - Browser Closed
+2023-09-04 17:21:35,364 - Frame1 -INFO - Chrome launched
+2023-09-04 17:21:38,142 - Frame1 -INFO - url Loaded
+2023-09-04 17:21:38,328 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:21:46,206 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:51,329 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:55,340 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:21:59,298 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:03,238 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:03,605 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:07,895 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:12,026 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:12,395 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:16,621 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:16,992 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:21,133 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:25,204 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:25,764 - Frame1 -INFO - Browser Closed
+2023-09-04 17:22:26,738 - Frame1 -INFO - Chrome launched
+2023-09-04 17:22:30,588 - Frame1 -INFO - url Loaded
+2023-09-04 17:22:30,755 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:22:38,732 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:44,550 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:48,513 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:52,470 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:56,485 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:22:56,910 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:01,114 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:05,184 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:05,574 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:09,769 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:10,115 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:14,272 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:18,330 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:18,892 - Frame1 -INFO - Browser Closed
+2023-09-04 17:23:19,973 - Frame1 -INFO - Chrome launched
+2023-09-04 17:23:23,632 - Frame1 -INFO - url Loaded
+2023-09-04 17:23:23,785 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:23:31,880 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:37,492 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:41,682 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:45,748 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:49,762 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:50,128 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:54,343 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:58,460 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:23:58,830 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:02,997 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:03,368 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:07,509 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:11,550 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:12,089 - Frame1 -INFO - Browser Closed
+2023-09-04 17:24:13,332 - Frame1 -INFO - Chrome launched
+2023-09-04 17:24:16,927 - Frame1 -INFO - url Loaded
+2023-09-04 17:24:17,104 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:24:25,249 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:30,338 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:34,286 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:38,217 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:42,213 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:42,557 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:46,700 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:50,735 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:51,130 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:55,329 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:55,735 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:24:59,945 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:03,968 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:04,516 - Frame1 -INFO - Browser Closed
+2023-09-04 17:25:05,503 - Frame1 -INFO - Chrome launched
+2023-09-04 17:25:15,096 - Frame1 -INFO - url Loaded
+2023-09-04 17:25:15,264 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:25:23,337 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:28,574 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:32,543 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:36,415 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:40,300 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:40,642 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:44,937 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:48,913 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:49,268 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:53,389 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:53,769 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:25:57,887 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:01,870 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:02,338 - Frame1 -INFO - Browser Closed
+2023-09-04 17:26:03,327 - Frame1 -INFO - Chrome launched
+2023-09-04 17:26:06,027 - Frame1 -INFO - url Loaded
+2023-09-04 17:26:06,231 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:26:14,111 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:19,228 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:23,128 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:27,035 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:30,994 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:31,377 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:35,650 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:39,584 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:39,966 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:44,124 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:44,564 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:48,736 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:52,732 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:26:53,218 - Frame1 -INFO - Browser Closed
+2023-09-04 17:26:54,261 - Frame1 -INFO - Chrome launched
+2023-09-04 17:26:57,785 - Frame1 -INFO - url Loaded
+2023-09-04 17:26:57,953 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:27:05,767 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:11,258 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:15,205 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:19,171 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:23,220 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:23,585 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:27,705 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:31,755 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:32,140 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:36,305 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:36,670 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:40,843 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:44,811 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:27:45,398 - Frame1 -INFO - Browser Closed
+2023-09-04 17:27:46,461 - Frame1 -INFO - Chrome launched
+2023-09-04 17:27:50,334 - Frame1 -INFO - url Loaded
+2023-09-04 17:27:50,509 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:27:58,549 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:03,530 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:07,392 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:11,296 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:15,306 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:15,762 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:19,974 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:24,014 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:24,348 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:28,565 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:28,933 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:33,085 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:37,121 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:37,737 - Frame1 -INFO - Browser Closed
+2023-09-04 17:28:38,730 - Frame1 -INFO - Chrome launched
+2023-09-04 17:28:42,081 - Frame1 -INFO - url Loaded
+2023-09-04 17:28:42,248 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:28:50,229 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:55,429 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:28:59,491 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:03,485 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:07,428 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:07,872 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:12,047 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:16,100 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:16,466 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:20,634 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:21,004 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:25,099 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:29,179 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:29,782 - Frame1 -INFO - Browser Closed
+2023-09-04 17:29:31,025 - Frame1 -INFO - Chrome launched
+2023-09-04 17:29:34,638 - Frame1 -INFO - url Loaded
+2023-09-04 17:29:34,817 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:29:42,783 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:48,339 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:52,241 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:55,991 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:29:59,787 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:00,007 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:03,829 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:07,610 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:07,808 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:11,596 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:11,849 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:15,748 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:19,508 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:20,320 - Frame1 -INFO - Browser Closed
+2023-09-04 17:30:21,579 - Frame1 -INFO - Chrome launched
+2023-09-04 17:30:25,140 - Frame1 -INFO - url Loaded
+2023-09-04 17:30:25,333 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:30:33,094 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:38,341 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:42,208 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:45,944 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:49,677 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:49,906 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:53,796 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:57,510 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:30:57,736 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:01,634 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:01,823 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:05,701 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:09,552 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:10,433 - Frame1 -INFO - Browser Closed
+2023-09-04 17:31:11,435 - Frame1 -INFO - Chrome launched
+2023-09-04 17:31:15,034 - Frame1 -INFO - url Loaded
+2023-09-04 17:31:15,204 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:31:23,171 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:28,255 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:32,319 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:36,348 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:40,431 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:40,821 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:45,054 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:49,176 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:49,589 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:53,780 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:54,191 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:31:58,422 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:02,553 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:03,098 - Frame1 -INFO - Browser Closed
+2023-09-04 17:32:04,242 - Frame1 -INFO - Chrome launched
+2023-09-04 17:32:08,867 - Frame1 -INFO - url Loaded
+2023-09-04 17:32:09,042 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:32:17,187 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:22,195 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:26,189 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:30,162 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:34,290 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:34,684 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:38,991 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:43,021 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:43,433 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:47,826 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:48,290 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:52,559 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:56,651 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:32:57,532 - Frame1 -INFO - Browser Closed
+2023-09-04 17:32:58,893 - Frame1 -INFO - Chrome launched
+2023-09-04 17:33:02,733 - Frame1 -INFO - url Loaded
+2023-09-04 17:33:02,911 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:33:10,984 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:16,776 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:20,720 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:24,489 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:28,257 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:28,515 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:32,431 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:36,357 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:36,636 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:40,609 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:40,904 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:44,783 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:48,614 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:33:49,492 - Frame1 -INFO - Browser Closed
+2023-09-04 17:33:50,563 - Frame1 -INFO - Chrome launched
+2023-09-04 17:33:54,237 - Frame1 -INFO - url Loaded
+2023-09-04 17:33:54,413 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:34:02,242 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:07,484 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:11,403 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:15,351 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:19,378 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:19,833 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:24,203 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:28,292 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:28,559 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:32,636 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:32,877 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:36,663 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:40,464 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:41,266 - Frame1 -INFO - Browser Closed
+2023-09-04 17:34:42,424 - Frame1 -INFO - Chrome launched
+2023-09-04 17:34:46,307 - Frame1 -INFO - url Loaded
+2023-09-04 17:34:46,477 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:34:54,385 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:34:59,169 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:03,185 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:07,233 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:11,261 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:11,667 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:15,963 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:19,892 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:20,139 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:24,233 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:24,495 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:28,370 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:32,202 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:32,974 - Frame1 -INFO - Browser Closed
+2023-09-04 17:35:34,136 - Frame1 -INFO - Chrome launched
+2023-09-04 17:35:38,299 - Frame1 -INFO - url Loaded
+2023-09-04 17:35:38,461 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:35:46,466 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:51,681 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:55,687 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:35:59,588 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:03,399 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:03,670 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:07,524 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:11,429 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:11,664 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:15,584 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:15,784 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:19,700 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:23,588 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:24,452 - Frame1 -INFO - Browser Closed
+2023-09-04 17:36:25,564 - Frame1 -INFO - Chrome launched
+2023-09-04 17:36:29,360 - Frame1 -INFO - url Loaded
+2023-09-04 17:36:29,522 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:36:37,231 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:42,252 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:46,200 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:49,967 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:53,708 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:53,919 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:36:57,778 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:01,482 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:01,789 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:05,742 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:05,957 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:09,809 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:13,643 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:14,427 - Frame1 -INFO - Browser Closed
+2023-09-04 17:37:15,427 - Frame1 -INFO - Chrome launched
+2023-09-04 17:37:18,425 - Frame1 -INFO - url Loaded
+2023-09-04 17:37:18,591 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:37:26,743 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:31,943 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:36,002 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:40,053 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:44,039 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:44,457 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:48,674 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:52,732 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:53,120 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:57,284 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:37:57,689 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:01,836 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:05,868 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:06,643 - Frame1 -INFO - Browser Closed
+2023-09-04 17:38:07,706 - Frame1 -INFO - Chrome launched
+2023-09-04 17:38:11,676 - Frame1 -INFO - url Loaded
+2023-09-04 17:38:11,838 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:38:19,676 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:25,155 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:28,957 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:32,772 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:36,525 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:36,789 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:40,670 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:44,462 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:44,690 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:48,547 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:48,747 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:52,514 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:56,311 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:38:57,055 - Frame1 -INFO - Browser Closed
+2023-09-04 17:38:58,067 - Frame1 -INFO - Chrome launched
+2023-09-04 17:39:01,663 - Frame1 -INFO - url Loaded
+2023-09-04 17:39:01,833 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:39:09,802 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:14,655 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:18,425 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:22,286 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:26,109 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:26,328 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:30,161 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:34,013 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:34,264 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:38,146 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:38,361 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:42,207 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:46,047 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:39:47,020 - Frame1 -INFO - Browser Closed
+2023-09-04 17:39:48,118 - Frame1 -INFO - Chrome launched
+2023-09-04 17:39:51,834 - Frame1 -INFO - url Loaded
+2023-09-04 17:39:51,987 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:40:00,158 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:05,471 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:09,533 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:13,586 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:17,580 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:17,985 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:22,256 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:26,299 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:26,698 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:30,968 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:31,356 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:35,526 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:39,598 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:40,429 - Frame1 -INFO - Browser Closed
+2023-09-04 17:40:41,436 - Frame1 -INFO - Chrome launched
+2023-09-04 17:40:44,713 - Frame1 -INFO - url Loaded
+2023-09-04 17:40:44,846 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:40:52,937 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:40:58,595 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:02,561 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:06,589 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:10,606 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:11,009 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:15,219 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:19,253 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:19,665 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:23,948 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:24,388 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:28,563 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:32,617 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:33,418 - Frame1 -INFO - Browser Closed
+2023-09-04 17:41:34,377 - Frame1 -INFO - Chrome launched
+2023-09-04 17:41:38,291 - Frame1 -INFO - url Loaded
+2023-09-04 17:41:38,453 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:41:46,519 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:52,320 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:41:56,422 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:00,436 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:04,460 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:04,852 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:09,123 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:13,155 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:13,583 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:17,857 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:18,241 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:22,443 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:26,505 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:27,306 - Frame1 -INFO - Browser Closed
+2023-09-04 17:42:28,242 - Frame1 -INFO - Chrome launched
+2023-09-04 17:42:32,140 - Frame1 -INFO - url Loaded
+2023-09-04 17:42:32,346 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:42:40,500 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:47,510 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:51,576 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:55,430 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:59,333 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:42:59,683 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:03,613 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:07,647 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:08,004 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:12,064 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:12,472 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:16,444 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:20,291 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:20,816 - Frame1 -INFO - Browser Closed
+2023-09-04 17:43:21,763 - Frame1 -INFO - Chrome launched
+2023-09-04 17:43:24,572 - Frame1 -INFO - url Loaded
+2023-09-04 17:43:24,730 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:43:32,604 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:43:37,653 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:44:04,199 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:44:08,038 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:44:08,250 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:44:21,573 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:44:22,204 - Frame1 -INFO - Browser Closed
+2023-09-04 17:44:23,279 - Frame1 -INFO - Chrome launched
+2023-09-04 17:44:26,744 - Frame1 -INFO - url Loaded
+2023-09-04 17:44:26,934 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 17:44:34,982 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:44:40,120 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:45:06,734 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:45:10,869 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:45:11,261 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:45:24,756 - Frame1 -INFO - Screenshot Taken
+2023-09-04 17:45:25,139 - Frame1 -INFO - Browser Closed
+2023-09-04 17:45:25,141 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-09-04 18:00:20,952 - Frame1 -INFO - Logger Started
+2023-09-04 18:00:26,387 - Frame1 -INFO - Chrome launched
+2023-09-04 18:00:29,692 - Frame1 -INFO - url Loaded
+2023-09-04 18:00:29,903 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:00:37,883 - Frame1 -INFO - Screenshot Taken (_LoginSucess_cs.anand@pidilite.com)
+2023-09-04 18:00:42,973 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:00:46,971 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:00:50,851 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:00:54,767 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:00:55,411 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com_)
+2023-09-04 18:00:59,513 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:01:03,202 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:01:03,901 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com_)
+2023-09-04 18:01:07,802 - Frame1 -INFO - Screenshot Taken (product_cs.anand@pidilite.com)
+2023-09-04 18:01:08,481 - Frame1 -INFO - Screenshot Taken (productcs.anand@pidilite.com_)
+2023-09-04 18:01:12,624 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:01:16,539 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:01:17,130 - Frame1 -INFO - Browser Closed
+2023-09-04 18:01:18,180 - Frame1 -INFO - Chrome launched
+2023-09-04 18:01:21,779 - Frame1 -INFO - url Loaded
+2023-09-04 18:01:22,045 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:01:29,949 - Frame1 -INFO - Screenshot Taken (_LoginSucess_diwakar.jha@pidilite.com)
+2023-09-04 18:01:35,429 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:01:39,398 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:01:43,054 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:01:47,087 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:01:47,778 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com_)
+2023-09-04 18:01:51,994 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com)
+2023-09-04 18:01:55,764 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com)
+2023-09-04 18:01:56,470 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com_)
+2023-09-04 18:02:00,349 - Frame1 -INFO - Screenshot Taken (product_diwakar.jha@pidilite.com)
+2023-09-04 18:02:01,036 - Frame1 -INFO - Screenshot Taken (productdiwakar.jha@pidilite.com_)
+2023-09-04 18:02:05,185 - Frame1 -INFO - Screenshot Taken (team_diwakar.jha@pidilite.com)
+2023-09-04 18:02:09,268 - Frame1 -INFO - Screenshot Taken (team_diwakar.jha@pidilite.com)
+2023-09-04 18:02:09,913 - Frame1 -INFO - Browser Closed
+2023-09-04 18:02:10,863 - Frame1 -INFO - Chrome launched
+2023-09-04 18:02:15,154 - Frame1 -INFO - url Loaded
+2023-09-04 18:02:15,332 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:02:23,509 - Frame1 -INFO - Screenshot Taken (_LoginSucess_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:29,538 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:33,650 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:37,436 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:41,388 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:42,056 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com_)
+2023-09-04 18:02:46,312 - Frame1 -INFO - Screenshot Taken (wss_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:50,038 - Frame1 -INFO - Screenshot Taken (wss_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:50,761 - Frame1 -INFO - Screenshot Taken (wss_indranil.sengupta@pidilite.com_)
+2023-09-04 18:02:54,740 - Frame1 -INFO - Screenshot Taken (product_indranil.sengupta@pidilite.com)
+2023-09-04 18:02:55,437 - Frame1 -INFO - Screenshot Taken (productindranil.sengupta@pidilite.com_)
+2023-09-04 18:02:59,597 - Frame1 -INFO - Screenshot Taken (team_indranil.sengupta@pidilite.com)
+2023-09-04 18:03:03,617 - Frame1 -INFO - Screenshot Taken (team_indranil.sengupta@pidilite.com)
+2023-09-04 18:03:04,175 - Frame1 -INFO - Browser Closed
+2023-09-04 18:03:05,229 - Frame1 -INFO - Chrome launched
+2023-09-04 18:03:07,964 - Frame1 -INFO - url Loaded
+2023-09-04 18:03:08,136 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:03:16,243 - Frame1 -INFO - Screenshot Taken (_LoginSucess_jay.mehta@pidilite.com)
+2023-09-04 18:03:21,827 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com)
+2023-09-04 18:03:25,699 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com)
+2023-09-04 18:05:00,208 - Frame1 -INFO - Logger Started
+2023-09-04 18:05:03,290 - Frame1 -INFO - Chrome launched
+2023-09-04 18:05:07,306 - Frame1 -INFO - url Loaded
+2023-09-04 18:05:07,643 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:05:15,649 - Frame1 -INFO - Screenshot Taken (_LoginSucess_cs.anand@pidilite.com)
+2023-09-04 18:05:20,571 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:05:24,470 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:05:28,030 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:05:31,863 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:05:32,375 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com_)
+2023-09-04 18:05:36,290 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:05:39,919 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:05:40,531 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com_)
+2023-09-04 18:05:44,356 - Frame1 -INFO - Screenshot Taken (product_cs.anand@pidilite.com)
+2023-09-04 18:05:45,038 - Frame1 -INFO - Screenshot Taken (productcs.anand@pidilite.com_)
+2023-09-04 18:05:49,147 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:05:53,068 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:05:53,620 - Frame1 -INFO - Browser Closed
+2023-09-04 18:05:54,881 - Frame1 -INFO - Chrome launched
+2023-09-04 18:05:58,368 - Frame1 -INFO - url Loaded
+2023-09-04 18:05:58,556 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:06:06,449 - Frame1 -INFO - Screenshot Taken (_LoginSucess_diwakar.jha@pidilite.com)
+2023-09-04 18:06:11,677 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:06:15,592 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:06:19,449 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:06:23,433 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:06:24,099 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com_)
+2023-09-04 18:06:28,332 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com)
+2023-09-04 18:06:32,122 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com)
+2023-09-04 18:06:32,813 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com_)
+2023-09-04 18:07:46,110 - Frame1 -INFO - Logger Started
+2023-09-04 18:07:49,432 - Frame1 -INFO - Chrome launched
+2023-09-04 18:07:53,130 - Frame1 -INFO - url Loaded
+2023-09-04 18:07:53,330 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:08:01,350 - Frame1 -INFO - Screenshot Taken (_LoginSucess_cs.anand@pidilite.com)
+2023-09-04 18:08:06,590 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:08:10,606 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:08:14,373 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:08:18,307 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:08:18,979 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com_)
+2023-09-04 18:08:23,228 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:08:26,898 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:08:27,552 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com_)
+2023-09-04 18:08:31,427 - Frame1 -INFO - Screenshot Taken (product_cs.anand@pidilite.com)
+2023-09-04 18:08:32,103 - Frame1 -INFO - Screenshot Taken (productcs.anand@pidilite.com_)
+2023-09-04 18:08:36,258 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:09:43,655 - Frame1 -INFO - Logger Started
+2023-09-04 18:09:46,596 - Frame1 -INFO - Chrome launched
+2023-09-04 18:09:50,608 - Frame1 -INFO - url Loaded
+2023-09-04 18:09:50,801 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:09:58,809 - Frame1 -INFO - Screenshot Taken (_LoginSucess_cs.anand@pidilite.com)
+2023-09-04 18:10:03,939 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:10:07,752 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:10:11,316 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:10:15,127 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com)
+2023-09-04 18:10:15,634 - Frame1 -INFO - Screenshot Taken (myDairy_cs.anand@pidilite.com_)
+2023-09-04 18:10:19,523 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:10:23,004 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com)
+2023-09-04 18:10:23,519 - Frame1 -INFO - Screenshot Taken (wss_cs.anand@pidilite.com_)
+2023-09-04 18:10:27,206 - Frame1 -INFO - Screenshot Taken (product_cs.anand@pidilite.com)
+2023-09-04 18:10:27,721 - Frame1 -INFO - Screenshot Taken (productcs.anand@pidilite.com_)
+2023-09-04 18:10:31,658 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:10:35,396 - Frame1 -INFO - Screenshot Taken (team_cs.anand@pidilite.com)
+2023-09-04 18:10:36,458 - Frame1 -INFO - Browser Closed
+2023-09-04 18:10:37,515 - Frame1 -INFO - Chrome launched
+2023-09-04 18:10:41,590 - Frame1 -INFO - url Loaded
+2023-09-04 18:10:41,741 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:10:49,420 - Frame1 -INFO - Screenshot Taken (_LoginSucess_diwakar.jha@pidilite.com)
+2023-09-04 18:10:54,198 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:10:58,031 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:11:01,552 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:11:05,436 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com)
+2023-09-04 18:11:06,095 - Frame1 -INFO - Screenshot Taken (myDairy_diwakar.jha@pidilite.com_)
+2023-09-04 18:11:10,359 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com)
+2023-09-04 18:11:14,074 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com)
+2023-09-04 18:11:14,769 - Frame1 -INFO - Screenshot Taken (wss_diwakar.jha@pidilite.com_)
+2023-09-04 18:11:18,614 - Frame1 -INFO - Screenshot Taken (product_diwakar.jha@pidilite.com)
+2023-09-04 18:11:19,271 - Frame1 -INFO - Screenshot Taken (productdiwakar.jha@pidilite.com_)
+2023-09-04 18:11:23,343 - Frame1 -INFO - Screenshot Taken (team_diwakar.jha@pidilite.com)
+2023-09-04 18:11:27,378 - Frame1 -INFO - Screenshot Taken (team_diwakar.jha@pidilite.com)
+2023-09-04 18:11:27,879 - Frame1 -INFO - Browser Closed
+2023-09-04 18:11:29,098 - Frame1 -INFO - Chrome launched
+2023-09-04 18:11:32,738 - Frame1 -INFO - url Loaded
+2023-09-04 18:11:32,927 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:11:40,717 - Frame1 -INFO - Screenshot Taken (_LoginSucess_indranil.sengupta@pidilite.com)
+2023-09-04 18:11:46,197 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:11:49,949 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:11:53,423 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:11:57,155 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com)
+2023-09-04 18:11:57,694 - Frame1 -INFO - Screenshot Taken (myDairy_indranil.sengupta@pidilite.com_)
+2023-09-04 18:12:01,543 - Frame1 -INFO - Screenshot Taken (wss_indranil.sengupta@pidilite.com)
+2023-09-04 18:12:05,072 - Frame1 -INFO - Screenshot Taken (wss_indranil.sengupta@pidilite.com)
+2023-09-04 18:12:05,544 - Frame1 -INFO - Screenshot Taken (wss_indranil.sengupta@pidilite.com_)
+2023-09-04 18:12:09,178 - Frame1 -INFO - Screenshot Taken (product_indranil.sengupta@pidilite.com)
+2023-09-04 18:12:09,645 - Frame1 -INFO - Screenshot Taken (productindranil.sengupta@pidilite.com_)
+2023-09-04 18:12:13,496 - Frame1 -INFO - Screenshot Taken (team_indranil.sengupta@pidilite.com)
+2023-09-04 18:12:17,227 - Frame1 -INFO - Screenshot Taken (team_indranil.sengupta@pidilite.com)
+2023-09-04 18:12:17,932 - Frame1 -INFO - Browser Closed
+2023-09-04 18:12:19,048 - Frame1 -INFO - Chrome launched
+2023-09-04 18:12:22,171 - Frame1 -INFO - url Loaded
+2023-09-04 18:12:22,335 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:12:30,140 - Frame1 -INFO - Screenshot Taken (_LoginSucess_jay.mehta@pidilite.com)
+2023-09-04 18:12:35,273 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com)
+2023-09-04 18:12:39,064 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com)
+2023-09-04 18:12:42,642 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com)
+2023-09-04 18:12:46,595 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com)
+2023-09-04 18:12:47,269 - Frame1 -INFO - Screenshot Taken (myDairy_jay.mehta@pidilite.com_)
+2023-09-04 18:12:51,547 - Frame1 -INFO - Screenshot Taken (wss_jay.mehta@pidilite.com)
+2023-09-04 18:12:55,235 - Frame1 -INFO - Screenshot Taken (wss_jay.mehta@pidilite.com)
+2023-09-04 18:12:55,913 - Frame1 -INFO - Screenshot Taken (wss_jay.mehta@pidilite.com_)
+2023-09-04 18:12:59,784 - Frame1 -INFO - Screenshot Taken (product_jay.mehta@pidilite.com)
+2023-09-04 18:13:00,435 - Frame1 -INFO - Screenshot Taken (productjay.mehta@pidilite.com_)
+2023-09-04 18:13:04,601 - Frame1 -INFO - Screenshot Taken (team_jay.mehta@pidilite.com)
+2023-09-04 18:13:08,629 - Frame1 -INFO - Screenshot Taken (team_jay.mehta@pidilite.com)
+2023-09-04 18:13:09,277 - Frame1 -INFO - Browser Closed
+2023-09-04 18:13:10,287 - Frame1 -INFO - Chrome launched
+2023-09-04 18:13:15,132 - Frame1 -INFO - url Loaded
+2023-09-04 18:13:15,305 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:13:23,316 - Frame1 -INFO - Screenshot Taken (_LoginSucess_krishan.kalla@pidilite.com)
+2023-09-04 18:13:27,924 - Frame1 -INFO - Screenshot Taken (myDairy_krishan.kalla@pidilite.com)
+2023-09-04 18:13:31,725 - Frame1 -INFO - Screenshot Taken (myDairy_krishan.kalla@pidilite.com)
+2023-09-04 18:13:35,178 - Frame1 -INFO - Screenshot Taken (myDairy_krishan.kalla@pidilite.com)
+2023-09-04 18:13:38,952 - Frame1 -INFO - Screenshot Taken (myDairy_krishan.kalla@pidilite.com)
+2023-09-04 18:13:39,455 - Frame1 -INFO - Screenshot Taken (myDairy_krishan.kalla@pidilite.com_)
+2023-09-04 18:13:43,331 - Frame1 -INFO - Screenshot Taken (wss_krishan.kalla@pidilite.com)
+2023-09-04 18:13:46,813 - Frame1 -INFO - Screenshot Taken (wss_krishan.kalla@pidilite.com)
+2023-09-04 18:13:47,294 - Frame1 -INFO - Screenshot Taken (wss_krishan.kalla@pidilite.com_)
+2023-09-04 18:13:50,933 - Frame1 -INFO - Screenshot Taken (product_krishan.kalla@pidilite.com)
+2023-09-04 18:13:51,431 - Frame1 -INFO - Screenshot Taken (productkrishan.kalla@pidilite.com_)
+2023-09-04 18:13:55,396 - Frame1 -INFO - Screenshot Taken (team_krishan.kalla@pidilite.com)
+2023-09-04 18:13:59,157 - Frame1 -INFO - Screenshot Taken (team_krishan.kalla@pidilite.com)
+2023-09-04 18:13:59,907 - Frame1 -INFO - Browser Closed
+2023-09-04 18:14:00,920 - Frame1 -INFO - Chrome launched
+2023-09-04 18:14:04,715 - Frame1 -INFO - url Loaded
+2023-09-04 18:14:04,899 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:14:12,762 - Frame1 -INFO - Screenshot Taken (_LoginSucess_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:17,846 - Frame1 -INFO - Screenshot Taken (myDairy_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:21,597 - Frame1 -INFO - Screenshot Taken (myDairy_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:25,025 - Frame1 -INFO - Screenshot Taken (myDairy_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:28,831 - Frame1 -INFO - Screenshot Taken (myDairy_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:29,331 - Frame1 -INFO - Screenshot Taken (myDairy_manjunatha.yv@pidilite.com_)
+2023-09-04 18:14:33,164 - Frame1 -INFO - Screenshot Taken (wss_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:36,633 - Frame1 -INFO - Screenshot Taken (wss_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:37,125 - Frame1 -INFO - Screenshot Taken (wss_manjunatha.yv@pidilite.com_)
+2023-09-04 18:14:40,803 - Frame1 -INFO - Screenshot Taken (product_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:41,330 - Frame1 -INFO - Screenshot Taken (productmanjunatha.yv@pidilite.com_)
+2023-09-04 18:14:45,128 - Frame1 -INFO - Screenshot Taken (team_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:48,839 - Frame1 -INFO - Screenshot Taken (team_manjunatha.yv@pidilite.com)
+2023-09-04 18:14:49,610 - Frame1 -INFO - Browser Closed
+2023-09-04 18:14:50,635 - Frame1 -INFO - Chrome launched
+2023-09-04 18:14:54,293 - Frame1 -INFO - url Loaded
+2023-09-04 18:14:54,507 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:15:02,692 - Frame1 -INFO - Screenshot Taken (_LoginSucess_mehra.surender@pidilite.com)
+2023-09-04 18:15:07,938 - Frame1 -INFO - Screenshot Taken (myDairy_mehra.surender@pidilite.com)
+2023-09-04 18:15:11,847 - Frame1 -INFO - Screenshot Taken (myDairy_mehra.surender@pidilite.com)
+2023-09-04 18:15:15,497 - Frame1 -INFO - Screenshot Taken (myDairy_mehra.surender@pidilite.com)
+2023-09-04 18:15:19,443 - Frame1 -INFO - Screenshot Taken (myDairy_mehra.surender@pidilite.com)
+2023-09-04 18:15:20,119 - Frame1 -INFO - Screenshot Taken (myDairy_mehra.surender@pidilite.com_)
+2023-09-04 18:15:24,322 - Frame1 -INFO - Screenshot Taken (wss_mehra.surender@pidilite.com)
+2023-09-04 18:15:28,046 - Frame1 -INFO - Screenshot Taken (wss_mehra.surender@pidilite.com)
+2023-09-04 18:15:28,700 - Frame1 -INFO - Screenshot Taken (wss_mehra.surender@pidilite.com_)
+2023-09-04 18:15:32,633 - Frame1 -INFO - Screenshot Taken (product_mehra.surender@pidilite.com)
+2023-09-04 18:15:33,306 - Frame1 -INFO - Screenshot Taken (productmehra.surender@pidilite.com_)
+2023-09-04 18:15:37,438 - Frame1 -INFO - Screenshot Taken (team_mehra.surender@pidilite.com)
+2023-09-04 18:15:41,433 - Frame1 -INFO - Screenshot Taken (team_mehra.surender@pidilite.com)
+2023-09-04 18:15:41,887 - Frame1 -INFO - Browser Closed
+2023-09-04 18:15:42,967 - Frame1 -INFO - Chrome launched
+2023-09-04 18:15:46,862 - Frame1 -INFO - url Loaded
+2023-09-04 18:15:47,027 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:15:54,769 - Frame1 -INFO - Screenshot Taken (_LoginSucess_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:00,171 - Frame1 -INFO - Screenshot Taken (myDairy_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:03,916 - Frame1 -INFO - Screenshot Taken (myDairy_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:07,310 - Frame1 -INFO - Screenshot Taken (myDairy_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:10,990 - Frame1 -INFO - Screenshot Taken (myDairy_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:11,477 - Frame1 -INFO - Screenshot Taken (myDairy_nawlesh.kumar@pidilite.com_)
+2023-09-04 18:16:15,430 - Frame1 -INFO - Screenshot Taken (wss_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:18,968 - Frame1 -INFO - Screenshot Taken (wss_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:19,439 - Frame1 -INFO - Screenshot Taken (wss_nawlesh.kumar@pidilite.com_)
+2023-09-04 18:16:23,170 - Frame1 -INFO - Screenshot Taken (product_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:23,853 - Frame1 -INFO - Screenshot Taken (productnawlesh.kumar@pidilite.com_)
+2023-09-04 18:16:27,989 - Frame1 -INFO - Screenshot Taken (team_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:31,760 - Frame1 -INFO - Screenshot Taken (team_nawlesh.kumar@pidilite.com)
+2023-09-04 18:16:32,252 - Frame1 -INFO - Browser Closed
+2023-09-04 18:16:33,348 - Frame1 -INFO - Chrome launched
+2023-09-04 18:16:36,252 - Frame1 -INFO - url Loaded
+2023-09-04 18:16:36,407 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:16:44,169 - Frame1 -INFO - Screenshot Taken (_LoginSucess_sanjay.kaul@pidilite.com)
+2023-09-04 18:16:49,098 - Frame1 -INFO - Screenshot Taken (myDairy_sanjay.kaul@pidilite.com)
+2023-09-04 18:16:52,859 - Frame1 -INFO - Screenshot Taken (myDairy_sanjay.kaul@pidilite.com)
+2023-09-04 18:16:56,291 - Frame1 -INFO - Screenshot Taken (myDairy_sanjay.kaul@pidilite.com)
+2023-09-04 18:16:59,948 - Frame1 -INFO - Screenshot Taken (myDairy_sanjay.kaul@pidilite.com)
+2023-09-04 18:17:00,439 - Frame1 -INFO - Screenshot Taken (myDairy_sanjay.kaul@pidilite.com_)
+2023-09-04 18:17:04,406 - Frame1 -INFO - Screenshot Taken (wss_sanjay.kaul@pidilite.com)
+2023-09-04 18:17:07,856 - Frame1 -INFO - Screenshot Taken (wss_sanjay.kaul@pidilite.com)
+2023-09-04 18:17:08,292 - Frame1 -INFO - Screenshot Taken (wss_sanjay.kaul@pidilite.com_)
+2023-09-04 18:17:11,906 - Frame1 -INFO - Screenshot Taken (product_sanjay.kaul@pidilite.com)
+2023-09-04 18:17:12,379 - Frame1 -INFO - Screenshot Taken (productsanjay.kaul@pidilite.com_)
+2023-09-04 18:17:16,261 - Frame1 -INFO - Screenshot Taken (team_sanjay.kaul@pidilite.com)
+2023-09-04 18:17:19,953 - Frame1 -INFO - Screenshot Taken (team_sanjay.kaul@pidilite.com)
+2023-09-04 18:17:20,686 - Frame1 -INFO - Browser Closed
+2023-09-04 18:17:21,830 - Frame1 -INFO - Chrome launched
+2023-09-04 18:17:26,476 - Frame1 -INFO - url Loaded
+2023-09-04 18:17:26,663 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:17:34,660 - Frame1 -INFO - Screenshot Taken (_LoginSucess_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:39,653 - Frame1 -INFO - Screenshot Taken (myDairy_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:43,403 - Frame1 -INFO - Screenshot Taken (myDairy_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:46,895 - Frame1 -INFO - Screenshot Taken (myDairy_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:50,639 - Frame1 -INFO - Screenshot Taken (myDairy_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:51,130 - Frame1 -INFO - Screenshot Taken (myDairy_senthilkumar.p@pidilite.com_)
+2023-09-04 18:17:54,993 - Frame1 -INFO - Screenshot Taken (wss_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:58,478 - Frame1 -INFO - Screenshot Taken (wss_senthilkumar.p@pidilite.com)
+2023-09-04 18:17:58,951 - Frame1 -INFO - Screenshot Taken (wss_senthilkumar.p@pidilite.com_)
+2023-09-04 18:18:02,603 - Frame1 -INFO - Screenshot Taken (product_senthilkumar.p@pidilite.com)
+2023-09-04 18:18:03,063 - Frame1 -INFO - Screenshot Taken (productsenthilkumar.p@pidilite.com_)
+2023-09-04 18:18:06,965 - Frame1 -INFO - Screenshot Taken (team_senthilkumar.p@pidilite.com)
+2023-09-04 18:18:10,748 - Frame1 -INFO - Screenshot Taken (team_senthilkumar.p@pidilite.com)
+2023-09-04 18:18:11,487 - Frame1 -INFO - Browser Closed
+2023-09-04 18:18:12,533 - Frame1 -INFO - Chrome launched
+2023-09-04 18:18:16,489 - Frame1 -INFO - url Loaded
+2023-09-04 18:18:16,663 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:18:24,667 - Frame1 -INFO - Screenshot Taken (_LoginSucess_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:29,605 - Frame1 -INFO - Screenshot Taken (myDairy_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:33,454 - Frame1 -INFO - Screenshot Taken (myDairy_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:36,974 - Frame1 -INFO - Screenshot Taken (myDairy_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:40,746 - Frame1 -INFO - Screenshot Taken (myDairy_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:41,228 - Frame1 -INFO - Screenshot Taken (myDairy_shwetank.mishra@pidilite.com_)
+2023-09-04 18:18:45,166 - Frame1 -INFO - Screenshot Taken (wss_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:48,712 - Frame1 -INFO - Screenshot Taken (wss_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:49,216 - Frame1 -INFO - Screenshot Taken (wss_shwetank.mishra@pidilite.com_)
+2023-09-04 18:18:52,825 - Frame1 -INFO - Screenshot Taken (product_shwetank.mishra@pidilite.com)
+2023-09-04 18:18:53,346 - Frame1 -INFO - Screenshot Taken (productshwetank.mishra@pidilite.com_)
+2023-09-04 18:18:57,184 - Frame1 -INFO - Screenshot Taken (team_shwetank.mishra@pidilite.com)
+2023-09-04 18:19:00,952 - Frame1 -INFO - Screenshot Taken (team_shwetank.mishra@pidilite.com)
+2023-09-04 18:19:01,777 - Frame1 -INFO - Browser Closed
+2023-09-04 18:19:03,733 - Frame1 -INFO - Chrome launched
+2023-09-04 18:19:06,640 - Frame1 -INFO - url Loaded
+2023-09-04 18:19:06,821 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:19:14,643 - Frame1 -INFO - Screenshot Taken (_LoginSucess_aditi.goel@pidilite.com)
+2023-09-04 18:19:20,015 - Frame1 -INFO - Screenshot Taken (myDairy_aditi.goel@pidilite.com)
+2023-09-04 18:19:23,825 - Frame1 -INFO - Screenshot Taken (myDairy_aditi.goel@pidilite.com)
+2023-09-04 18:19:27,247 - Frame1 -INFO - Screenshot Taken (myDairy_aditi.goel@pidilite.com)
+2023-09-04 18:19:30,938 - Frame1 -INFO - Screenshot Taken (myDairy_aditi.goel@pidilite.com)
+2023-09-04 18:19:31,426 - Frame1 -INFO - Screenshot Taken (myDairy_aditi.goel@pidilite.com_)
+2023-09-04 18:19:35,263 - Frame1 -INFO - Screenshot Taken (wss_aditi.goel@pidilite.com)
+2023-09-04 18:19:38,695 - Frame1 -INFO - Screenshot Taken (wss_aditi.goel@pidilite.com)
+2023-09-04 18:19:39,166 - Frame1 -INFO - Screenshot Taken (wss_aditi.goel@pidilite.com_)
+2023-09-04 18:19:42,798 - Frame1 -INFO - Screenshot Taken (product_aditi.goel@pidilite.com)
+2023-09-04 18:19:43,251 - Frame1 -INFO - Screenshot Taken (productaditi.goel@pidilite.com_)
+2023-09-04 18:19:47,053 - Frame1 -INFO - Screenshot Taken (team_aditi.goel@pidilite.com)
+2023-09-04 18:19:50,799 - Frame1 -INFO - Screenshot Taken (team_aditi.goel@pidilite.com)
+2023-09-04 18:19:51,481 - Frame1 -INFO - Browser Closed
+2023-09-04 18:19:52,573 - Frame1 -INFO - Chrome launched
+2023-09-04 18:19:56,431 - Frame1 -INFO - url Loaded
+2023-09-04 18:19:56,608 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:20:04,509 - Frame1 -INFO - Screenshot Taken (_LoginSucess_avantika.mehta@pidilite.com)
+2023-09-04 18:20:09,950 - Frame1 -INFO - Screenshot Taken (myDairy_avantika.mehta@pidilite.com)
+2023-09-04 18:20:13,702 - Frame1 -INFO - Screenshot Taken (myDairy_avantika.mehta@pidilite.com)
+2023-09-04 18:20:17,357 - Frame1 -INFO - Screenshot Taken (myDairy_avantika.mehta@pidilite.com)
+2023-09-04 18:20:21,289 - Frame1 -INFO - Screenshot Taken (myDairy_avantika.mehta@pidilite.com)
+2023-09-04 18:20:21,993 - Frame1 -INFO - Screenshot Taken (myDairy_avantika.mehta@pidilite.com_)
+2023-09-04 18:20:26,262 - Frame1 -INFO - Screenshot Taken (wss_avantika.mehta@pidilite.com)
+2023-09-04 18:20:29,960 - Frame1 -INFO - Screenshot Taken (wss_avantika.mehta@pidilite.com)
+2023-09-04 18:20:30,636 - Frame1 -INFO - Screenshot Taken (wss_avantika.mehta@pidilite.com_)
+2023-09-04 18:20:34,578 - Frame1 -INFO - Screenshot Taken (product_avantika.mehta@pidilite.com)
+2023-09-04 18:20:35,232 - Frame1 -INFO - Screenshot Taken (productavantika.mehta@pidilite.com_)
+2023-09-04 18:20:39,330 - Frame1 -INFO - Screenshot Taken (team_avantika.mehta@pidilite.com)
+2023-09-04 18:20:43,308 - Frame1 -INFO - Screenshot Taken (team_avantika.mehta@pidilite.com)
+2023-09-04 18:20:43,747 - Frame1 -INFO - Browser Closed
+2023-09-04 18:20:44,859 - Frame1 -INFO - Chrome launched
+2023-09-04 18:20:48,345 - Frame1 -INFO - url Loaded
+2023-09-04 18:20:48,502 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:20:56,525 - Frame1 -INFO - Screenshot Taken (_LoginSucess_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:01,435 - Frame1 -INFO - Screenshot Taken (myDairy_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:05,139 - Frame1 -INFO - Screenshot Taken (myDairy_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:08,815 - Frame1 -INFO - Screenshot Taken (myDairy_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:12,697 - Frame1 -INFO - Screenshot Taken (myDairy_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:13,360 - Frame1 -INFO - Screenshot Taken (myDairy_gopalakrishnan.vp@pidilite.com_)
+2023-09-04 18:21:17,475 - Frame1 -INFO - Screenshot Taken (wss_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:21,161 - Frame1 -INFO - Screenshot Taken (wss_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:21,779 - Frame1 -INFO - Screenshot Taken (wss_gopalakrishnan.vp@pidilite.com_)
+2023-09-04 18:21:25,591 - Frame1 -INFO - Screenshot Taken (product_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:26,264 - Frame1 -INFO - Screenshot Taken (productgopalakrishnan.vp@pidilite.com_)
+2023-09-04 18:21:30,419 - Frame1 -INFO - Screenshot Taken (team_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:34,316 - Frame1 -INFO - Screenshot Taken (team_gopalakrishnan.vp@pidilite.com)
+2023-09-04 18:21:34,744 - Frame1 -INFO - Browser Closed
+2023-09-04 18:21:35,846 - Frame1 -INFO - Chrome launched
+2023-09-04 18:21:38,359 - Frame1 -INFO - url Loaded
+2023-09-04 18:21:38,536 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:21:46,543 - Frame1 -INFO - Screenshot Taken (_LoginSucess_mohd.adnan@pidilite.com)
+2023-09-04 18:21:51,272 - Frame1 -INFO - Screenshot Taken (myDairy_mohd.adnan@pidilite.com)
+2023-09-04 18:21:55,044 - Frame1 -INFO - Screenshot Taken (myDairy_mohd.adnan@pidilite.com)
+2023-09-04 18:21:58,585 - Frame1 -INFO - Screenshot Taken (myDairy_mohd.adnan@pidilite.com)
+2023-09-04 18:22:02,547 - Frame1 -INFO - Screenshot Taken (myDairy_mohd.adnan@pidilite.com)
+2023-09-04 18:22:03,220 - Frame1 -INFO - Screenshot Taken (myDairy_mohd.adnan@pidilite.com_)
+2023-09-04 18:22:07,496 - Frame1 -INFO - Screenshot Taken (wss_mohd.adnan@pidilite.com)
+2023-09-04 18:22:11,191 - Frame1 -INFO - Screenshot Taken (wss_mohd.adnan@pidilite.com)
+2023-09-04 18:22:11,937 - Frame1 -INFO - Screenshot Taken (wss_mohd.adnan@pidilite.com_)
+2023-09-04 18:22:15,772 - Frame1 -INFO - Screenshot Taken (product_mohd.adnan@pidilite.com)
+2023-09-04 18:22:16,511 - Frame1 -INFO - Screenshot Taken (productmohd.adnan@pidilite.com_)
+2023-09-04 18:22:20,646 - Frame1 -INFO - Screenshot Taken (team_mohd.adnan@pidilite.com)
+2023-09-04 18:22:24,608 - Frame1 -INFO - Screenshot Taken (team_mohd.adnan@pidilite.com)
+2023-09-04 18:22:25,047 - Frame1 -INFO - Browser Closed
+2023-09-04 18:22:26,120 - Frame1 -INFO - Chrome launched
+2023-09-04 18:22:29,751 - Frame1 -INFO - url Loaded
+2023-09-04 18:22:29,938 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:22:37,927 - Frame1 -INFO - Screenshot Taken (_LoginSucess_shubham.yadav@pidilite.com)
+2023-09-04 18:22:42,693 - Frame1 -INFO - Screenshot Taken (myDairy_shubham.yadav@pidilite.com)
+2023-09-04 18:22:46,372 - Frame1 -INFO - Screenshot Taken (myDairy_shubham.yadav@pidilite.com)
+2023-09-04 18:22:49,957 - Frame1 -INFO - Screenshot Taken (myDairy_shubham.yadav@pidilite.com)
+2023-09-04 18:22:53,980 - Frame1 -INFO - Screenshot Taken (myDairy_shubham.yadav@pidilite.com)
+2023-09-04 18:22:54,578 - Frame1 -INFO - Screenshot Taken (myDairy_shubham.yadav@pidilite.com_)
+2023-09-04 18:22:58,713 - Frame1 -INFO - Screenshot Taken (wss_shubham.yadav@pidilite.com)
+2023-09-04 18:23:02,348 - Frame1 -INFO - Screenshot Taken (wss_shubham.yadav@pidilite.com)
+2023-09-04 18:23:02,964 - Frame1 -INFO - Screenshot Taken (wss_shubham.yadav@pidilite.com_)
+2023-09-04 18:23:06,782 - Frame1 -INFO - Screenshot Taken (product_shubham.yadav@pidilite.com)
+2023-09-04 18:23:07,426 - Frame1 -INFO - Screenshot Taken (productshubham.yadav@pidilite.com_)
+2023-09-04 18:23:11,495 - Frame1 -INFO - Screenshot Taken (team_shubham.yadav@pidilite.com)
+2023-09-04 18:23:15,521 - Frame1 -INFO - Screenshot Taken (team_shubham.yadav@pidilite.com)
+2023-09-04 18:23:15,964 - Frame1 -INFO - Browser Closed
+2023-09-04 18:23:17,002 - Frame1 -INFO - Chrome launched
+2023-09-04 18:23:21,330 - Frame1 -INFO - url Loaded
+2023-09-04 18:23:21,508 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:23:29,596 - Frame1 -INFO - Screenshot Taken (_LoginSucess_mangala.dubey@pidilite.com)
+2023-09-04 18:23:34,611 - Frame1 -INFO - Screenshot Taken (myDairy_mangala.dubey@pidilite.com)
+2023-09-04 18:23:38,461 - Frame1 -INFO - Screenshot Taken (myDairy_mangala.dubey@pidilite.com)
+2023-09-04 18:23:42,114 - Frame1 -INFO - Screenshot Taken (myDairy_mangala.dubey@pidilite.com)
+2023-09-04 18:23:45,962 - Frame1 -INFO - Screenshot Taken (myDairy_mangala.dubey@pidilite.com)
+2023-09-04 18:23:46,646 - Frame1 -INFO - Screenshot Taken (myDairy_mangala.dubey@pidilite.com_)
+2023-09-04 18:23:50,833 - Frame1 -INFO - Screenshot Taken (wss_mangala.dubey@pidilite.com)
+2023-09-04 18:23:54,612 - Frame1 -INFO - Screenshot Taken (wss_mangala.dubey@pidilite.com)
+2023-09-04 18:23:55,297 - Frame1 -INFO - Screenshot Taken (wss_mangala.dubey@pidilite.com_)
+2023-09-04 18:23:59,139 - Frame1 -INFO - Screenshot Taken (product_mangala.dubey@pidilite.com)
+2023-09-04 18:23:59,812 - Frame1 -INFO - Screenshot Taken (productmangala.dubey@pidilite.com_)
+2023-09-04 18:24:04,003 - Frame1 -INFO - Screenshot Taken (team_mangala.dubey@pidilite.com)
+2023-09-04 18:24:07,943 - Frame1 -INFO - Screenshot Taken (team_mangala.dubey@pidilite.com)
+2023-09-04 18:24:08,391 - Frame1 -INFO - Browser Closed
+2023-09-04 18:24:09,391 - Frame1 -INFO - Chrome launched
+2023-09-04 18:24:13,347 - Frame1 -INFO - url Loaded
+2023-09-04 18:24:13,515 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:24:21,313 - Frame1 -INFO - Screenshot Taken (_LoginSucess_diksha.na@pidilite.com)
+2023-09-04 18:24:27,099 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:24:30,844 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:24:34,272 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:24:38,053 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:24:38,558 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com_)
+2023-09-04 18:24:42,431 - Frame1 -INFO - Screenshot Taken (wss_diksha.na@pidilite.com)
+2023-09-04 18:24:45,912 - Frame1 -INFO - Screenshot Taken (wss_diksha.na@pidilite.com)
+2023-09-04 18:24:46,381 - Frame1 -INFO - Screenshot Taken (wss_diksha.na@pidilite.com_)
+2023-09-04 18:24:49,996 - Frame1 -INFO - Screenshot Taken (product_diksha.na@pidilite.com)
+2023-09-04 18:24:50,486 - Frame1 -INFO - Screenshot Taken (productdiksha.na@pidilite.com_)
+2023-09-04 18:24:54,289 - Frame1 -INFO - Screenshot Taken (team_diksha.na@pidilite.com)
+2023-09-04 18:24:57,971 - Frame1 -INFO - Screenshot Taken (team_diksha.na@pidilite.com)
+2023-09-04 18:24:58,679 - Frame1 -INFO - Browser Closed
+2023-09-04 18:24:59,621 - Frame1 -INFO - Chrome launched
+2023-09-04 18:25:03,910 - Frame1 -INFO - url Loaded
+2023-09-04 18:25:04,084 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:25:11,915 - Frame1 -INFO - Screenshot Taken (_LoginSucess_golandaz.khan@pidilite.com)
+2023-09-04 18:25:17,466 - Frame1 -INFO - Screenshot Taken (myDairy_golandaz.khan@pidilite.com)
+2023-09-04 18:25:21,116 - Frame1 -INFO - Screenshot Taken (myDairy_golandaz.khan@pidilite.com)
+2023-09-04 18:25:24,632 - Frame1 -INFO - Screenshot Taken (myDairy_golandaz.khan@pidilite.com)
+2023-09-04 18:25:28,381 - Frame1 -INFO - Screenshot Taken (myDairy_golandaz.khan@pidilite.com)
+2023-09-04 18:25:28,865 - Frame1 -INFO - Screenshot Taken (myDairy_golandaz.khan@pidilite.com_)
+2023-09-04 18:25:32,732 - Frame1 -INFO - Screenshot Taken (wss_golandaz.khan@pidilite.com)
+2023-09-04 18:25:36,197 - Frame1 -INFO - Screenshot Taken (wss_golandaz.khan@pidilite.com)
+2023-09-04 18:25:36,692 - Frame1 -INFO - Screenshot Taken (wss_golandaz.khan@pidilite.com_)
+2023-09-04 18:25:40,239 - Frame1 -INFO - Screenshot Taken (product_golandaz.khan@pidilite.com)
+2023-09-04 18:25:40,708 - Frame1 -INFO - Screenshot Taken (productgolandaz.khan@pidilite.com_)
+2023-09-04 18:25:44,536 - Frame1 -INFO - Screenshot Taken (team_golandaz.khan@pidilite.com)
+2023-09-04 18:25:48,224 - Frame1 -INFO - Screenshot Taken (team_golandaz.khan@pidilite.com)
+2023-09-04 18:25:48,917 - Frame1 -INFO - Browser Closed
+2023-09-04 18:25:49,939 - Frame1 -INFO - Chrome launched
+2023-09-04 18:25:53,451 - Frame1 -INFO - url Loaded
+2023-09-04 18:25:53,597 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:26:01,306 - Frame1 -INFO - Screenshot Taken (_LoginSucess_p.sridhar@pidilite.com)
+2023-09-04 18:26:06,417 - Frame1 -INFO - Screenshot Taken (myDairy_p.sridhar@pidilite.com)
+2023-09-04 18:26:10,514 - Frame1 -INFO - Screenshot Taken (myDairy_p.sridhar@pidilite.com)
+2023-09-04 18:26:14,254 - Frame1 -INFO - Screenshot Taken (myDairy_p.sridhar@pidilite.com)
+2023-09-04 18:26:18,167 - Frame1 -INFO - Screenshot Taken (myDairy_p.sridhar@pidilite.com)
+2023-09-04 18:26:18,797 - Frame1 -INFO - Screenshot Taken (myDairy_p.sridhar@pidilite.com_)
+2023-09-04 18:26:23,047 - Frame1 -INFO - Screenshot Taken (wss_p.sridhar@pidilite.com)
+2023-09-04 18:26:26,661 - Frame1 -INFO - Screenshot Taken (wss_p.sridhar@pidilite.com)
+2023-09-04 18:26:27,322 - Frame1 -INFO - Screenshot Taken (wss_p.sridhar@pidilite.com_)
+2023-09-04 18:26:31,203 - Frame1 -INFO - Screenshot Taken (product_p.sridhar@pidilite.com)
+2023-09-04 18:26:31,890 - Frame1 -INFO - Screenshot Taken (productp.sridhar@pidilite.com_)
+2023-09-04 18:26:36,081 - Frame1 -INFO - Screenshot Taken (team_p.sridhar@pidilite.com)
+2023-09-04 18:26:40,050 - Frame1 -INFO - Screenshot Taken (team_p.sridhar@pidilite.com)
+2023-09-04 18:26:40,529 - Frame1 -INFO - Browser Closed
+2023-09-04 18:26:41,641 - Frame1 -INFO - Chrome launched
+2023-09-04 18:26:45,320 - Frame1 -INFO - url Loaded
+2023-09-04 18:26:45,499 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:26:53,211 - Frame1 -INFO - Screenshot Taken (_LoginSucess_rajkumar.dubey@pidilite.com)
+2023-09-04 18:26:58,634 - Frame1 -INFO - Screenshot Taken (myDairy_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:02,433 - Frame1 -INFO - Screenshot Taken (myDairy_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:06,078 - Frame1 -INFO - Screenshot Taken (myDairy_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:10,008 - Frame1 -INFO - Screenshot Taken (myDairy_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:10,657 - Frame1 -INFO - Screenshot Taken (myDairy_rajkumar.dubey@pidilite.com_)
+2023-09-04 18:27:14,773 - Frame1 -INFO - Screenshot Taken (wss_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:18,411 - Frame1 -INFO - Screenshot Taken (wss_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:18,966 - Frame1 -INFO - Screenshot Taken (wss_rajkumar.dubey@pidilite.com_)
+2023-09-04 18:27:22,869 - Frame1 -INFO - Screenshot Taken (product_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:23,512 - Frame1 -INFO - Screenshot Taken (productrajkumar.dubey@pidilite.com_)
+2023-09-04 18:27:27,680 - Frame1 -INFO - Screenshot Taken (team_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:31,557 - Frame1 -INFO - Screenshot Taken (team_rajkumar.dubey@pidilite.com)
+2023-09-04 18:27:32,035 - Frame1 -INFO - Browser Closed
+2023-09-04 18:27:33,072 - Frame1 -INFO - Chrome launched
+2023-09-04 18:27:36,498 - Frame1 -INFO - url Loaded
+2023-09-04 18:27:36,716 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:27:44,630 - Frame1 -INFO - Screenshot Taken (_LoginSucess_upendra.choudhary@pidilite.com)
+2023-09-04 18:27:49,801 - Frame1 -INFO - Screenshot Taken (myDairy_upendra.choudhary@pidilite.com)
+2023-09-04 18:27:53,733 - Frame1 -INFO - Screenshot Taken (myDairy_upendra.choudhary@pidilite.com)
+2023-09-04 18:27:57,446 - Frame1 -INFO - Screenshot Taken (myDairy_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:01,392 - Frame1 -INFO - Screenshot Taken (myDairy_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:02,011 - Frame1 -INFO - Screenshot Taken (myDairy_upendra.choudhary@pidilite.com_)
+2023-09-04 18:28:06,228 - Frame1 -INFO - Screenshot Taken (wss_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:09,904 - Frame1 -INFO - Screenshot Taken (wss_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:10,591 - Frame1 -INFO - Screenshot Taken (wss_upendra.choudhary@pidilite.com_)
+2023-09-04 18:28:14,519 - Frame1 -INFO - Screenshot Taken (product_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:15,200 - Frame1 -INFO - Screenshot Taken (productupendra.choudhary@pidilite.com_)
+2023-09-04 18:28:19,321 - Frame1 -INFO - Screenshot Taken (team_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:23,223 - Frame1 -INFO - Screenshot Taken (team_upendra.choudhary@pidilite.com)
+2023-09-04 18:28:23,641 - Frame1 -INFO - Browser Closed
+2023-09-04 18:28:24,629 - Frame1 -INFO - Chrome launched
+2023-09-04 18:28:28,436 - Frame1 -INFO - url Loaded
+2023-09-04 18:28:28,606 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:28:36,355 - Frame1 -INFO - Screenshot Taken (_LoginSucess_diksha.na@pidilite.com)
+2023-09-04 18:28:41,324 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:28:45,042 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:28:48,485 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:28:52,245 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com)
+2023-09-04 18:28:52,734 - Frame1 -INFO - Screenshot Taken (myDairy_diksha.na@pidilite.com_)
+2023-09-04 18:28:56,629 - Frame1 -INFO - Screenshot Taken (wss_diksha.na@pidilite.com)
+2023-09-04 18:29:00,080 - Frame1 -INFO - Screenshot Taken (wss_diksha.na@pidilite.com)
+2023-09-04 18:29:00,564 - Frame1 -INFO - Screenshot Taken (wss_diksha.na@pidilite.com_)
+2023-09-04 18:29:04,179 - Frame1 -INFO - Screenshot Taken (product_diksha.na@pidilite.com)
+2023-09-04 18:29:04,679 - Frame1 -INFO - Screenshot Taken (productdiksha.na@pidilite.com_)
+2023-09-04 18:29:08,606 - Frame1 -INFO - Screenshot Taken (team_diksha.na@pidilite.com)
+2023-09-04 18:29:12,333 - Frame1 -INFO - Screenshot Taken (team_diksha.na@pidilite.com)
+2023-09-04 18:29:13,058 - Frame1 -INFO - Browser Closed
+2023-09-04 18:29:14,067 - Frame1 -INFO - Chrome launched
+2023-09-04 18:29:18,242 - Frame1 -INFO - url Loaded
+2023-09-04 18:29:18,402 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:29:26,314 - Frame1 -INFO - Screenshot Taken (_LoginSucess_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:31,358 - Frame1 -INFO - Screenshot Taken (myDairy_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:35,111 - Frame1 -INFO - Screenshot Taken (myDairy_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:38,585 - Frame1 -INFO - Screenshot Taken (myDairy_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:42,297 - Frame1 -INFO - Screenshot Taken (myDairy_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:42,796 - Frame1 -INFO - Screenshot Taken (myDairy_govindrakesh.iyer@pidilite.com_)
+2023-09-04 18:29:46,707 - Frame1 -INFO - Screenshot Taken (wss_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:50,231 - Frame1 -INFO - Screenshot Taken (wss_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:50,700 - Frame1 -INFO - Screenshot Taken (wss_govindrakesh.iyer@pidilite.com_)
+2023-09-04 18:29:54,351 - Frame1 -INFO - Screenshot Taken (product_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:29:54,864 - Frame1 -INFO - Screenshot Taken (productgovindrakesh.iyer@pidilite.com_)
+2023-09-04 18:29:58,734 - Frame1 -INFO - Screenshot Taken (team_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:30:02,486 - Frame1 -INFO - Screenshot Taken (team_govindrakesh.iyer@pidilite.com)
+2023-09-04 18:30:03,148 - Frame1 -INFO - Browser Closed
+2023-09-04 18:30:04,069 - Frame1 -INFO - Chrome launched
+2023-09-04 18:30:07,704 - Frame1 -INFO - url Loaded
+2023-09-04 18:30:07,862 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:30:15,630 - Frame1 -INFO - Screenshot Taken (_LoginSucess_joseph.reddy@pidilite.com)
+2023-09-04 18:30:20,628 - Frame1 -INFO - Screenshot Taken (myDairy_joseph.reddy@pidilite.com)
+2023-09-04 18:30:24,496 - Frame1 -INFO - Screenshot Taken (myDairy_joseph.reddy@pidilite.com)
+2023-09-04 18:30:27,991 - Frame1 -INFO - Screenshot Taken (myDairy_joseph.reddy@pidilite.com)
+2023-09-04 18:30:31,739 - Frame1 -INFO - Screenshot Taken (myDairy_joseph.reddy@pidilite.com)
+2023-09-04 18:30:32,228 - Frame1 -INFO - Screenshot Taken (myDairy_joseph.reddy@pidilite.com_)
+2023-09-04 18:30:36,132 - Frame1 -INFO - Screenshot Taken (wss_joseph.reddy@pidilite.com)
+2023-09-04 18:30:39,541 - Frame1 -INFO - Screenshot Taken (wss_joseph.reddy@pidilite.com)
+2023-09-04 18:30:40,029 - Frame1 -INFO - Screenshot Taken (wss_joseph.reddy@pidilite.com_)
+2023-09-04 18:30:43,597 - Frame1 -INFO - Screenshot Taken (product_joseph.reddy@pidilite.com)
+2023-09-04 18:30:44,088 - Frame1 -INFO - Screenshot Taken (productjoseph.reddy@pidilite.com_)
+2023-09-04 18:30:47,938 - Frame1 -INFO - Screenshot Taken (team_joseph.reddy@pidilite.com)
+2023-09-04 18:30:51,654 - Frame1 -INFO - Screenshot Taken (team_joseph.reddy@pidilite.com)
+2023-09-04 18:30:52,303 - Frame1 -INFO - Browser Closed
+2023-09-04 18:30:53,395 - Frame1 -INFO - Chrome launched
+2023-09-04 18:30:57,086 - Frame1 -INFO - url Loaded
+2023-09-04 18:30:57,240 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:31:04,979 - Frame1 -INFO - Screenshot Taken (_LoginSucess_namani.kumar@pidilite.com)
+2023-09-04 18:31:09,878 - Frame1 -INFO - Screenshot Taken (myDairy_namani.kumar@pidilite.com)
+2023-09-04 18:31:13,630 - Frame1 -INFO - Screenshot Taken (myDairy_namani.kumar@pidilite.com)
+2023-09-04 18:31:17,064 - Frame1 -INFO - Screenshot Taken (myDairy_namani.kumar@pidilite.com)
+2023-09-04 18:31:20,735 - Frame1 -INFO - Screenshot Taken (myDairy_namani.kumar@pidilite.com)
+2023-09-04 18:31:21,230 - Frame1 -INFO - Screenshot Taken (myDairy_namani.kumar@pidilite.com_)
+2023-09-04 18:31:25,112 - Frame1 -INFO - Screenshot Taken (wss_namani.kumar@pidilite.com)
+2023-09-04 18:31:30,797 - Frame1 -INFO - Screenshot Taken (wss_namani.kumar@pidilite.com)
+2023-09-04 18:31:31,360 - Frame1 -INFO - Screenshot Taken (wss_namani.kumar@pidilite.com_)
+2023-09-04 18:31:35,073 - Frame1 -INFO - Screenshot Taken (product_namani.kumar@pidilite.com)
+2023-09-04 18:31:35,525 - Frame1 -INFO - Screenshot Taken (productnamani.kumar@pidilite.com_)
+2023-09-04 18:31:39,424 - Frame1 -INFO - Screenshot Taken (team_namani.kumar@pidilite.com)
+2023-09-04 18:31:43,186 - Frame1 -INFO - Screenshot Taken (team_namani.kumar@pidilite.com)
+2023-09-04 18:31:43,946 - Frame1 -INFO - Browser Closed
+2023-09-04 18:31:45,216 - Frame1 -INFO - Chrome launched
+2023-09-04 18:31:48,667 - Frame1 -INFO - url Loaded
+2023-09-04 18:31:48,805 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:31:56,661 - Frame1 -INFO - Screenshot Taken (_LoginSucess_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:01,731 - Frame1 -INFO - Screenshot Taken (myDairy_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:05,409 - Frame1 -INFO - Screenshot Taken (myDairy_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:08,834 - Frame1 -INFO - Screenshot Taken (myDairy_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:12,523 - Frame1 -INFO - Screenshot Taken (myDairy_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:13,017 - Frame1 -INFO - Screenshot Taken (myDairy_sanjaya.sahu@pidilite.com_)
+2023-09-04 18:32:16,822 - Frame1 -INFO - Screenshot Taken (wss_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:20,284 - Frame1 -INFO - Screenshot Taken (wss_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:20,742 - Frame1 -INFO - Screenshot Taken (wss_sanjaya.sahu@pidilite.com_)
+2023-09-04 18:32:24,343 - Frame1 -INFO - Screenshot Taken (product_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:24,775 - Frame1 -INFO - Screenshot Taken (productsanjaya.sahu@pidilite.com_)
+2023-09-04 18:32:28,595 - Frame1 -INFO - Screenshot Taken (team_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:32,280 - Frame1 -INFO - Screenshot Taken (team_sanjaya.sahu@pidilite.com)
+2023-09-04 18:32:32,975 - Frame1 -INFO - Browser Closed
+2023-09-04 18:32:33,917 - Frame1 -INFO - Chrome launched
+2023-09-04 18:32:36,568 - Frame1 -INFO - url Loaded
+2023-09-04 18:32:36,713 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:32:44,449 - Frame1 -INFO - Screenshot Taken (_LoginSucess_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:32:49,991 - Frame1 -INFO - Screenshot Taken (myDairy_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:32:53,676 - Frame1 -INFO - Screenshot Taken (myDairy_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:32:57,180 - Frame1 -INFO - Screenshot Taken (myDairy_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:00,903 - Frame1 -INFO - Screenshot Taken (myDairy_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:01,421 - Frame1 -INFO - Screenshot Taken (myDairy_tejaskumar.suthar@pidilite.com_)
+2023-09-04 18:33:05,340 - Frame1 -INFO - Screenshot Taken (wss_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:08,771 - Frame1 -INFO - Screenshot Taken (wss_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:09,268 - Frame1 -INFO - Screenshot Taken (wss_tejaskumar.suthar@pidilite.com_)
+2023-09-04 18:33:12,856 - Frame1 -INFO - Screenshot Taken (product_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:13,365 - Frame1 -INFO - Screenshot Taken (producttejaskumar.suthar@pidilite.com_)
+2023-09-04 18:33:17,211 - Frame1 -INFO - Screenshot Taken (team_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:20,978 - Frame1 -INFO - Screenshot Taken (team_tejaskumar.suthar@pidilite.com)
+2023-09-04 18:33:21,621 - Frame1 -INFO - Browser Closed
+2023-09-04 18:33:22,631 - Frame1 -INFO - Chrome launched
+2023-09-04 18:33:26,113 - Frame1 -INFO - url Loaded
+2023-09-04 18:33:26,284 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:33:34,593 - Frame1 -INFO - Screenshot Taken (_LoginSucess_bibin.krishnan@pidilite.com)
+2023-09-04 18:33:40,139 - Frame1 -INFO - Screenshot Taken (myDairy_bibin.krishnan@pidilite.com)
+2023-09-04 18:33:53,584 - Frame1 -INFO - Screenshot Taken (Dealer Failed)
+2023-09-04 18:34:07,208 - Frame1 -INFO - Screenshot Taken (WSS Failed)
+2023-09-04 18:34:11,094 - Frame1 -INFO - Screenshot Taken (product_bibin.krishnan@pidilite.com)
+2023-09-04 18:34:11,786 - Frame1 -INFO - Screenshot Taken (productbibin.krishnan@pidilite.com_)
+2023-09-04 18:34:25,351 - Frame1 -INFO - Screenshot Taken (Failed Team)
+2023-09-04 18:34:25,917 - Frame1 -INFO - Browser Closed
+2023-09-04 18:34:26,941 - Frame1 -INFO - Chrome launched
+2023-09-04 18:34:30,786 - Frame1 -INFO - url Loaded
+2023-09-04 18:34:30,933 - Frame1 -INFO - maximized Browser window and added waits
+2023-09-04 18:34:38,894 - Frame1 -INFO - Screenshot Taken (_LoginSucess_shalini.ghosh@pidilite.com)
+2023-09-04 18:34:43,927 - Frame1 -INFO - Screenshot Taken (myDairy_shalini.ghosh@pidilite.com)
+2023-09-04 18:34:57,230 - Frame1 -INFO - Screenshot Taken (Dealer Failed)
+2023-09-04 18:35:10,533 - Frame1 -INFO - Screenshot Taken (WSS Failed)
+2023-09-04 18:35:14,109 - Frame1 -INFO - Screenshot Taken (product_shalini.ghosh@pidilite.com)
+2023-09-04 18:35:14,615 - Frame1 -INFO - Screenshot Taken (productshalini.ghosh@pidilite.com_)
+2023-09-04 18:35:27,924 - Frame1 -INFO - Screenshot Taken (Failed Team)
+2023-09-04 18:35:28,527 - Frame1 -INFO - Browser Closed
+2023-09-04 18:35:28,527 - Frame1 -INFO - Automation Suite Executed Successfully

@@ -1,22 +1,15 @@
 package testCases;
 
 import java.io.IOException;
-import java.time.Duration;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
-
 import testBase.TestBase;
 import utility.ElementDropdown;
 import utility.ExcelDataProvider;
-import utility.ExcelHandling;
 
 public class TestCases extends TestBase{
+	
 	ExcelWrite excel = new ExcelWrite();
 
 
@@ -56,6 +49,8 @@ public class TestCases extends TestBase{
 			login.enterPassword(password);
 			login.clickOnLogin();
 			Thread.sleep(6000);
+			ElementDropdown ed = new ElementDropdown();
+			ed.loginSS(username);
 			
 			driver.get("https://mconnect.pidilite.com/monthly-tour-plan");
 //			Thread.sleep(1000);
@@ -73,17 +68,27 @@ public class TestCases extends TestBase{
 			
 			Thread.sleep(1);
 			}
+	
+	
 	public String dealerOutput;
+	public String wssOutput;
+	public String productOutput;
+	public String teamOutput;
 		@Test(dataProvider = "loginData", dataProviderClass = ExcelDataProvider.class)
 	    public void myDairy(String username, String password) throws InterruptedException, IOException {
-	        // Your test code here
+	        
+			try {
 			login.enterUsername(username);
 			login.enterPassword(password);
 			login.clickOnLogin();
 			Thread.sleep(6000);
-			ElementDropdown ed = new ElementDropdown();
-			ed.loginSS();
-			
+			ElementDropdown elementDropdown = new ElementDropdown();
+			elementDropdown.loginSS(username);
+			System.out.println(username);
+			}catch(Exception e){
+				e.printStackTrace();
+				takeScreenshot.save("Login Unsuccessful_");
+			}
 			try{
 			driver.get("https://mconnect.pidilite.com/my-diary");
 			Thread.sleep(1);
@@ -97,38 +102,59 @@ public class TestCases extends TestBase{
 	        String three = elementDropdown.getTextField2(1);
 	        elementDropdown.select2(1, "myDairy_"+username,-50);
 	        String four = elementDropdown.getTextField2(1);
-	        takeScreenshot.save("myDairy_"+username+"_");
-	        System.out.println("test one1");
+	        takeScreenshot.save("myDairy_"+username);
 	        dealerOutput = one+"__"+two+"__"+three+"__"+four;
-	        System.out.println(dealerOutput);
-	        System.out.println("test one2");
 			}catch(Exception e) {
+				e.printStackTrace();
+				takeScreenshot.save("Dealer Failed");
 				System.out.println("Dealer tab issue");
 			}
-	        
+	        try {
 	      //button[text()='WSS']
 	        WebElement wss = driver.findElement(By.xpath("//button[text()='WSS']"));
 	        wss.click();
 	        elementDropdown.select(3, "wss_"+username,50);
+	        String one = elementDropdown.getTextField1(3);
 	        elementDropdown.select2(2, "wss_"+username,50);
-	        takeScreenshot.save("wss_"+username+"_");
-	       
+	        String two= elementDropdown.getTextField2(2);
+	        takeScreenshot.save("wss_"+username);
+	        wssOutput = one+"__"+two;
+	        }catch(Exception e) {
+	        	e.printStackTrace();
+	        	System.out.println("WSS Failed");
+	        	takeScreenshot.save("WSS Failed");
+	        }
+	        try {
+	       //Product
 	        WebElement product = driver.findElement(By.xpath("//button[text()='Product']"));
 	        product.click();
 	        elementDropdown.select2(3, "product_"+username,50);
-	        takeScreenshot.save("product"+username+"_");
-	        
+	        String one = elementDropdown.getTextField2(3);
+	        takeScreenshot.save("product"+username);
+	        productOutput = one;
+	        }catch(Exception e) {
+	        	e.printStackTrace();
+	        	System.out.println("Failed Product");
+	        	takeScreenshot.save("Failed Product");
+	        }
+	        try {
+	        //Team
 	        WebElement team = driver.findElement(By.xpath("//button[text()='Team']"));
 	        team.click();
 	        
 	        elementDropdown.select(4, "team_"+username,50);
+	        String one = elementDropdown.getTextField1(4);
 	        elementDropdown.select(5, "team_"+username,50);
+	        String two = elementDropdown.getTextField1(5);
+	        teamOutput = one+"__"+two;
+	        }catch(Exception e) {
+	        	e.printStackTrace();
+	        	System.out.println("Failed Team");
+	        	takeScreenshot.save("Failed Team");
+	        }
 	        
 	        
-	        
-//	        String iVV = elementDropdown.inputValueMethod();
-	        excel.writeDataToExcel(username, dealerOutput);
-//			System.out.println(iVV);
+	        excel.writeDataToExcel(username, "Dealer--("+dealerOutput+")"+"WSS--("+wssOutput+")"+"Product--("+productOutput+")"+"Team--("+teamOutput+")");
 	    }
 	
 	
