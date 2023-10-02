@@ -82,7 +82,7 @@ public class TestBase {
 		 logger.info("url Loaded");
 		 driver.manage().window().maximize();
 		 driver.manage().deleteAllCookies();
-		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(13));
+		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(1));
 		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 		 logger.info("maximized Browser window and added waits");
 		 

@@ -10,7 +10,7 @@ import testBase.TestBase;
 
 public class ExcelWrite extends TestBase {
 
-    private static final String FILE_PATH = "src\\test\\java\\testData\\LoginResults.xlsx";
+    private static final String FILE_PATH = "src\\test\\java\\testData\\Results.xlsx";
     private static final String SHEET_NAME = "Userlist";
 
     @Test(dataProvider = "loginData")

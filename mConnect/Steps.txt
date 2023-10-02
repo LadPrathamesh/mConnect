@@ -1,0 +1,5 @@
+paste link of Login Details
+Clear file of Login Results 
+Clear file of screenshots
+Right click on project and Refresh
+Open Last file testNG.xml and R.click and 'Run As >> Testng Suite'
